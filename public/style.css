@@ -1,0 +1,10 @@
+/* styles */
+/* called by your view template */
+
+/* You might want to try something fancier: */
+/* less: http://lesscss.org/ */
+h1 img {
+  height: 1.5em ;
+  vertical-align: text-top ;
+  margin-right: -0.4em ;
+}

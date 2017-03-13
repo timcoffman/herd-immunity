@@ -1,0 +1,3 @@
+function appStartup() {
+  // do nothing
+}
