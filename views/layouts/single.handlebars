@@ -1,14 +1,23 @@
 <!DOCTYPE html>
 <html>
+  <!-- icons from https://www.iconfinder.com/iconsets/SUPERVISTA -->
   <!-- icons from https://www.iconfinder.com/iconsets/ikooni-outline-free-basic -->
 <head>
-  <title>Hyperspace Integration Demo</title>
+  <title>Herd Immunity FHIRWorks Demo {{#if view}}- {{view}}{{/if}}</title>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="shortcut icon" href="https://cdn.glitch.com/b3018506-7e8b-48d7-abf4-2c158dfe960b%2F1489452439_virus.png"/>
   <link rel="stylesheet" type="text/css" href="style.css"/>
+  <!--
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.3/require.min.js"></script>
+  -->
+  <script type="text/javascript" src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
+  <script type="text/javascript" src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js" integrity="sha256-VazP97ZCwtekAsvgPBSUwPFKdrwD3unUfSGVYrahUqU=" crossorigin="anonymous"></script>
+  <script type="text/javascript" src="https://d3js.org/d3.v3.min.js"></script>
+  <script type="text/javascript" src="https://d3js.org/topojson.v1.min.js"></script>
   <script type="text/javascript" src="app.js"></script>
+  <script type="text/javascript" src="{{@exphbs.view}}.js"></script>
 </head>
 <body onload="appStartup();">
 

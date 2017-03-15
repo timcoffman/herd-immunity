@@ -2,7 +2,7 @@
 	"//1": "describes your app and its dependencies",
 	"//2": "https://docs.npmjs.com/files/package.json",
 	"//3": "updating this file will download and update your packages",
-	"name": "my-glitch-app",
+	"name": "herd-immunity",
 	"version": "0.0.1",
 	"description": "What am I about?",
 	"main": "server.js",
@@ -15,7 +15,8 @@
 		"express-handlebars": "^3.0.0",
 		"xml2js": "^0.4.17",
 		"express-xml-bodyparser": "^0.3.0",
-		"xml2js-xpath": "^0.8.0"
+		"xml2js-xpath": "^0.8.0",
+		"fhir": "^2.0.12"
 	},
 	"engines": {
 		"node": "6.9.x"

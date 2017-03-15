@@ -1,0 +1,18 @@
+
+<h1>
+<img src="https://cdn.glitch.com/b3018506-7e8b-48d7-abf4-2c158dfe960b%2F1489452439_virus.png">
+Flu Data
+</h1>
+
+<ul>
+{{#each postalCodes}}
+  <li>{{this}}</li>
+{{/each}}
+</ul>
+
+
+<ul>
+{{#each immunizations}}
+  <li>{{vaccineCode.text}}: skipped={{wasNotGiven}}</li>
+{{/each}}
+</ul>

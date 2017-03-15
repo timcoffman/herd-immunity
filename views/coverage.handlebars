@@ -1,8 +1,64 @@
+
+<script type="text/javascript">$(document).ready( function() {
+  var coverageTool = new CoverageTool( d3, topojson ) ;
+  coverageTool.initializeMap(
+    $('#maps-container'),
+    [ {{#each postalCodes}}'{{this}}',{{/each}} ]
+  ) ;
+  coverageTool.initializeMap(
+    $('#maps-container'),
+    [ {{#each postalCodes}}'{{this}}',{{/each}} ]
+  ) ;
+  coverageTool.initializeLegend(
+    $('#legend-container')
+  ) ;
+});</script>
+
+<div class="panel"> <!-- main stack -->
+
+<div class="panel"> <!-- banner -->
+
+<div class="panel"> <!-- banner item -->
 <h1>
 <img src="https://cdn.glitch.com/b3018506-7e8b-48d7-abf4-2c158dfe960b%2F1489452439_virus.png">
 Coverage Map
 </h1>
+</div> <!-- banner item -->
 
-<a href="/coverage">self referential link</a>
+<div class="panel"> <!-- banner item -->
+ZipCode(s): {{#each postalCodes as |postalCode|}}
+  {{#unless @first}},{{/unless}}<strong>{{postalCode}}</strong>
+{{else}}
+  <span class="missing">none</span>
+{{/each}}
+</div> <!-- banner item -->
 
-<a href="/">index</a>
+</div> <!-- banner -->
+
+
+
+<div class="panel" style="flex-wrap: wrap ;" id="maps-container"> </div> <!-- coverage maps -->
+
+
+</div> <!-- coverage maps -->
+
+
+<div class="panel" id="legend-container"> <!-- legend -->
+</div> <!-- legend -->
+
+
+<div class="panel"> <!-- other -->
+
+<ul>
+{{#each immunizations}}
+  <li>{{vaccineCode.text}}: skipped={{wasNotGiven}}</li>
+{{/each}}
+</ul>
+
+
+</div> <!-- other -->
+
+
+
+
+</div> <!-- main stack -->

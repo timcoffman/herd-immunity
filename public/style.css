@@ -3,8 +3,67 @@
 
 /* You might want to try something fancier: */
 /* less: http://lesscss.org/ */
+
+
+h1 {
+  margin: 5px 1em ;
+}
+
 h1 img {
   height: 1.5em ;
   vertical-align: text-top ;
   margin-right: -0.4em ;
+}
+
+svg {
+  overflow: none ;
+}
+
+#maps-container svg {
+  margin: 0.5em ;
+  width: 200px ;
+  height: 200px ;
+  border: solid 2px black ;
+  border-radius: 7px ;
+  fill: #aaa;
+}
+
+path {
+  stroke-width: 0;
+}
+
+path.county {
+  stroke: rgba(0,0,0,0.75);
+  stroke-dasharray: 0.5 0.5 ;
+  stroke-width: 0.05px;
+  fill: none;
+}
+
+path.postal-code.target {
+    stroke-width: 0.05px;
+    stroke: blue;
+}
+
+.panel {
+  display: flex ;
+  flex-flow: column nowrap ;
+  justify-content: center ;
+  align-items: center ;
+  
+}
+
+.panel > .panel {
+  flex-flow: row nowrap ;
+}
+
+.panel > .panel > .panel {
+  flex-flow: column nowrap ;
+}
+
+.panel > .panel > .panel > .panel{
+  flex-flow: row nowrap ;
+}
+
+.panel > * {
+  flex: 0 1 auto ;
 }
