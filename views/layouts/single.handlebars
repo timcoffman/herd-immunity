@@ -9,6 +9,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="shortcut icon" href="https://cdn.glitch.com/b3018506-7e8b-48d7-abf4-2c158dfe960b%2F1489452439_virus.png"/>
   <link rel="stylesheet" type="text/css" href="style.css"/>
+  {{#if smart_style_url}}
+  <link rel="stylesheet" type="text/css" href="/smart.css?url={{smart_style_url}}"/>
+  {{/if}}
+  <script type="text/javascript">
+    window.REQUEST_ORIGIN = '{{ request_origin }}';
+  </script>
   <!--
   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.3/require.min.js"></script>
   -->
@@ -20,6 +26,10 @@
   <script type="text/javascript" src="{{@exphbs.view}}.js"></script>
 </head>
 <body onload="appStartup();">
+  <div id="progress" style="display:none;">
+    <img src="https://cdn.glitch.com/b3018506-7e8b-48d7-abf4-2c158dfe960b%2Fripple.svg?1489762274314">
+    Working...
+  </div>
 
   {{{body}}}
 

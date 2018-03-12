@@ -16,7 +16,10 @@
 		"xml2js": "^0.4.17",
 		"express-xml-bodyparser": "^0.3.0",
 		"xml2js-xpath": "^0.8.0",
-		"fhir": "^2.0.12"
+		"fhir": "^2.0.12",
+		"topojson": "^2.2.0",
+		"d3": "^3.0.0",
+		"dateformat": "^2.0.0"
 	},
 	"engines": {
 		"node": "6.9.x"

@@ -1,14 +1,19 @@
 
 <script type="text/javascript">$(document).ready( function() {
+  var postalCodes = [ {{#each postalCodes}}'{{this}}',{{/each}} ] ;
+
+
   var coverageTool = new CoverageTool( d3, topojson ) ;
-  coverageTool.initializeMap(
-    $('#maps-container'),
-    [ {{#each postalCodes}}'{{this}}',{{/each}} ]
-  ) ;
-  coverageTool.initializeMap(
-    $('#maps-container'),
-    [ {{#each postalCodes}}'{{this}}',{{/each}} ]
-  ) ;
+  $('#maps-container div.map').each( function(i,element) {
+  
+    var vaccination = $(element).attr('data-vaccination') ;
+    coverageTool.initializeMap(
+      $(element),
+      vaccination,
+      postalCodes
+    ) ;
+  
+  }) ;
   coverageTool.initializeLegend(
     $('#legend-container')
   ) ;
@@ -16,12 +21,23 @@
 
 <div class="panel"> <!-- main stack -->
 
+{{#if patient}}
+{{#unless suppress_patient_banner}}
+<div class="panel patient-header"> <!-- patient -->
+  <div class="panel">Name: <strong>{{patient.familyName}}, {{patient.givenName}}</strong></div>
+  <div class="panel">DOB: <strong>{{patient.birthDate}}</strong></div>
+  <div class="panel">Phone: <strong>{{patient.phoneNumber}}</strong></div>
+</div> <!-- patient -->
+{{/unless}}
+{{/if}}
+
+
 <div class="panel"> <!-- banner -->
 
 <div class="panel"> <!-- banner item -->
 <h1>
 <img src="https://cdn.glitch.com/b3018506-7e8b-48d7-abf4-2c158dfe960b%2F1489452439_virus.png">
-Coverage Map
+Local Immunization Rates
 </h1>
 </div> <!-- banner item -->
 
@@ -35,10 +51,25 @@ ZipCode(s): {{#each postalCodes as |postalCode|}}
 
 </div> <!-- banner -->
 
+<div class="panel" id="maps-container"> <!-- coverage maps -->
 
-
-<div class="panel" style="flex-wrap: wrap ;" id="maps-container"> </div> <!-- coverage maps -->
-
+  {{#each vaccinations as |vaccinationInfo vaccination|}}
+    <div class="panel">
+      <h2>{{vaccinationInfo.title}} ({{vaccination}})</h2>
+      {{#if vaccinationInfo.immunization}}
+      <div>When Given: {{vaccinationInfo.immunization.whenGiven}}</div>
+      {{/if}}
+      {{#unless vaccinationInfo.immunization}}
+      <div><button
+              style="display:none;"
+              class="place-order"
+              data-vaccination="{{vaccination}}"
+              data-order-key="{{vaccinationInfo.orderKey}}"
+            >Order {{vaccinationInfo.title}} Vaccination</button></div>
+      {{/unless}}
+      <div class="panel map" data-vaccination="{{vaccination}}"> </div>
+    </div>
+  {{/each}}
 
 </div> <!-- coverage maps -->
 
@@ -46,19 +77,14 @@ ZipCode(s): {{#each postalCodes as |postalCode|}}
 <div class="panel" id="legend-container"> <!-- legend -->
 </div> <!-- legend -->
 
+<div class="panel error">
 
-<div class="panel"> <!-- other -->
-
-<ul>
-{{#each immunizations}}
-  <li>{{vaccineCode.text}}: skipped={{wasNotGiven}}</li>
-{{/each}}
-</ul>
-
-
-</div> <!-- other -->
-
-
-
+  <div class="panel" id="debugger"> <!-- debugger -->
+  </div> <!-- debugger -->
+  
+  <div class="panel error" id="error-container"> <!-- errors -->
+  </div> <!-- errors -->
+  
+</div>
 
 </div> <!-- main stack -->

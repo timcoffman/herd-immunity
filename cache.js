@@ -7,8 +7,14 @@ var Cache = function Cache( location ) {
 } ;
 
 Cache.prototype.list = function( callback  ) {
-  fs.readdir( this.location, function(err,filenames) {
-    callback( filenames ) ;
+  var location = this.location
+  fs.readdir( location, function(err,filenames) {
+    var files = filenames.map( function(filename) {
+      var stats = fs.statSync( location + '/' + filename ) ;
+      var readOnly = !! /^\.|\.md$/.exec(filename) ;
+      return { name: filename, size: stats.size, readOnly: readOnly } ;
+    }) ;
+    callback( files ) ;
   }) ;
 } ;
 
@@ -27,7 +33,7 @@ Cache.prototype.load = function( name, producer, callback  ) {
     // already exists, callback with data
     fs.readFile( path, function(err,rawData) {
       var data = rawData.toString() ;
-      if ( /.js$/.exec(name) )
+      if ( /.json$/.exec(name) )
         data = JSON.parse(rawData) ;
       callback(err,data) ;
     } ) ;
@@ -48,7 +54,7 @@ Cache.prototype.load = function( name, producer, callback  ) {
 
       console.log('writing', path, 'to cache ...') ;
       var rawData = data ;
-      if ( /.js$/.exec(name) )
+      if ( /.json$/.exec(name) )
         rawData = JSON.stringify(rawData);
       fs.writeFile( path, rawData, function(err) {
         callback(err,data) ;

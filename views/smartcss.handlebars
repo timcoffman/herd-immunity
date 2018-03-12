@@ -1,0 +1,35 @@
+/*
+ * built from {{url}}
+ * {{#each style as |value key|}}
+ * style.{{key}} = {{{value}}}{{/each}}
+ */
+
+{{#if style.color_background}}
+body {
+  background-color: {{{style.color_background}}} ;
+}
+{{/if}}
+
+{{#if style.color_text}}
+body {
+  color: {{{style.color_text}}} ;
+}
+{{/if}}
+
+{{#if style.font_family_body}}
+body {
+  font-family: {{{style.font_family_body}}} ;
+}
+{{/if}}
+
+{{#if style.font_family_heading}}
+h1, h2, h3, h4, h5, h6, .heading, .header {
+  font-family: {{{style.font_family_heading}}} ;
+}
+{{/if}}
+
+{{#if style.color_error}}
+.error {
+  color: {{{style.color_error}}} ;
+}
+{{/if}}

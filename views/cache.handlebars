@@ -1,9 +1,12 @@
 <h1>Files in the Data Cache</h1>
 <ul>
-{{#each filenames}}
+{{#each files as |file|}}
   <li style="line-height: 2em;">
-    <a href="/cache/{{this}}">View "{{this}}"</a>
-    <form style="display:inline" method="POST" action="/cache/drop?filename={{this}}"><button type="submit">Delete "{{this}}"</button></form>
+    <a href="/cache/{{file.name}}">View "{{file.name}}"</a>
+    [{{file.size}} bytes]
+    {{#unless file.readOnly}}
+      <form style="display:inline" method="POST" action="/cache/drop?filename={{file.name}}"><button type="submit">Delete "{{file.name}}"</button></form>
+    {{/unless}}
   </li>
 {{/each}}
 </ul>

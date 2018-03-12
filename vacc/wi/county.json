@@ -1,0 +1,6184 @@
+{
+   "53001": [
+      {
+         "county": "Sheboygan",
+         "alloc": 1
+      }
+   ],
+   "53002": [
+      {
+         "county": "Washington",
+         "alloc": 1
+      }
+   ],
+   "53003": [
+      {
+         "county": "Dodge",
+         "alloc": 1
+      }
+   ],
+   "53004": [
+      {
+         "county": "Ozaukee",
+         "alloc": 1
+      }
+   ],
+   "53005": [
+      {
+         "county": "Waukesha",
+         "alloc": 1
+      }
+   ],
+   "53006": [
+      {
+         "county": "Dodge",
+         "alloc": 0.775
+      },
+      {
+         "county": "Fond du Lac",
+         "alloc": 0.225
+      }
+   ],
+   "53007": [
+      {
+         "county": "Waukesha",
+         "alloc": 1
+      }
+   ],
+   "53010": [
+      {
+         "county": "Fond du Lac",
+         "alloc": 0.96
+      },
+      {
+         "county": "Washington",
+         "alloc": 0.04
+      }
+   ],
+   "53011": [
+      {
+         "county": "Fond du Lac",
+         "alloc": 0.03
+      },
+      {
+         "county": "Sheboygan",
+         "alloc": 0.97
+      }
+   ],
+   "53012": [
+      {
+         "county": "Ozaukee",
+         "alloc": 0.914
+      },
+      {
+         "county": "Washington",
+         "alloc": 0.086
+      }
+   ],
+   "53013": [
+      {
+         "county": "Ozaukee",
+         "alloc": 0.094
+      },
+      {
+         "county": "Sheboygan",
+         "alloc": 0.906
+      }
+   ],
+   "53014": [
+      {
+         "county": "Calumet",
+         "alloc": 0.968
+      },
+      {
+         "county": "Fond du Lac",
+         "alloc": 0.002
+      },
+      {
+         "county": "Manitowoc",
+         "alloc": 0.03
+      }
+   ],
+   "53015": [
+      {
+         "county": "Manitowoc",
+         "alloc": 0.841
+      },
+      {
+         "county": "Sheboygan",
+         "alloc": 0.159
+      }
+   ],
+   "53016": [
+      {
+         "county": "Dodge",
+         "alloc": 1
+      }
+   ],
+   "53017": [
+      {
+         "county": "Washington",
+         "alloc": 0.823
+      },
+      {
+         "county": "Waukesha",
+         "alloc": 0.177
+      }
+   ],
+   "53018": [
+      {
+         "county": "Waukesha",
+         "alloc": 1
+      }
+   ],
+   "53019": [
+      {
+         "county": "Fond du Lac",
+         "alloc": 1
+      }
+   ],
+   "53020": [
+      {
+         "county": "Calumet",
+         "alloc": 0.019
+      },
+      {
+         "county": "Manitowoc",
+         "alloc": 0.019
+      },
+      {
+         "county": "Sheboygan",
+         "alloc": 0.963
+      }
+   ],
+   "53021": [
+      {
+         "county": "Ozaukee",
+         "alloc": 0.855
+      },
+      {
+         "county": "Washington",
+         "alloc": 0.145
+      }
+   ],
+   "53022": [
+      {
+         "county": "Washington",
+         "alloc": 1
+      }
+   ],
+   "53023": [
+      {
+         "county": "Sheboygan",
+         "alloc": 1
+      }
+   ],
+   "53024": [
+      {
+         "county": "Ozaukee",
+         "alloc": 1
+      }
+   ],
+   "53027": [
+      {
+         "county": "Dodge",
+         "alloc": 0.026
+      },
+      {
+         "county": "Washington",
+         "alloc": 0.974
+      }
+   ],
+   "53029": [
+      {
+         "county": "Washington",
+         "alloc": 0.005
+      },
+      {
+         "county": "Waukesha",
+         "alloc": 0.995
+      }
+   ],
+   "53031": [
+      {
+         "county": "Sheboygan",
+         "alloc": 1
+      }
+   ],
+   "53032": [
+      {
+         "county": "Dodge",
+         "alloc": 1
+      }
+   ],
+   "53033": [
+      {
+         "county": "Washington",
+         "alloc": 1
+      }
+   ],
+   "53034": [
+      {
+         "county": "Dodge",
+         "alloc": 1
+      }
+   ],
+   "53035": [
+      {
+         "county": "Dodge",
+         "alloc": 1
+      }
+   ],
+   "53036": [
+      {
+         "county": "Dodge",
+         "alloc": 0.117
+      },
+      {
+         "county": "Jefferson",
+         "alloc": 0.868
+      },
+      {
+         "county": "Waukesha",
+         "alloc": 0.016
+      }
+   ],
+   "53037": [
+      {
+         "county": "Washington",
+         "alloc": 1
+      }
+   ],
+   "53038": [
+      {
+         "county": "Jefferson",
+         "alloc": 1
+      }
+   ],
+   "53039": [
+      {
+         "county": "Dodge",
+         "alloc": 1
+      }
+   ],
+   "53040": [
+      {
+         "county": "Fond du Lac",
+         "alloc": 0.048
+      },
+      {
+         "county": "Sheboygan",
+         "alloc": 0.046
+      },
+      {
+         "county": "Washington",
+         "alloc": 0.906
+      }
+   ],
+   "53042": [
+      {
+         "county": "Calumet",
+         "alloc": 0.076
+      },
+      {
+         "county": "Manitowoc",
+         "alloc": 0.924
+      }
+   ],
+   "53044": [
+      {
+         "county": "Sheboygan",
+         "alloc": 1
+      }
+   ],
+   "53045": [
+      {
+         "county": "Waukesha",
+         "alloc": 1
+      }
+   ],
+   "53046": [
+      {
+         "county": "Waukesha",
+         "alloc": 1
+      }
+   ],
+   "53047": [
+      {
+         "county": "Dodge",
+         "alloc": 1
+      }
+   ],
+   "53048": [
+      {
+         "county": "Dodge",
+         "alloc": 0.994
+      },
+      {
+         "county": "Fond du Lac",
+         "alloc": 0.006
+      }
+   ],
+   "53049": [
+      {
+         "county": "Calumet",
+         "alloc": 0.033
+      },
+      {
+         "county": "Fond du Lac",
+         "alloc": 0.967
+      }
+   ],
+   "53050": [
+      {
+         "county": "Dodge",
+         "alloc": 1
+      }
+   ],
+   "53051": [
+      {
+         "county": "Waukesha",
+         "alloc": 1
+      }
+   ],
+   "53057": [
+      {
+         "county": "Fond du Lac",
+         "alloc": 1
+      }
+   ],
+   "53058": [
+      {
+         "county": "Waukesha",
+         "alloc": 1
+      }
+   ],
+   "53059": [
+      {
+         "county": "Dodge",
+         "alloc": 1
+      }
+   ],
+   "53061": [
+      {
+         "county": "Calumet",
+         "alloc": 0.911
+      },
+      {
+         "county": "Fond du Lac",
+         "alloc": 0.079
+      },
+      {
+         "county": "Manitowoc",
+         "alloc": 0.01
+      }
+   ],
+   "53063": [
+      {
+         "county": "Manitowoc",
+         "alloc": 1
+      }
+   ],
+   "53065": [
+      {
+         "county": "Dodge",
+         "alloc": 0.008
+      },
+      {
+         "county": "Fond du Lac",
+         "alloc": 0.992
+      }
+   ],
+   "53066": [
+      {
+         "county": "Dodge",
+         "alloc": 0.044
+      },
+      {
+         "county": "Jefferson",
+         "alloc": 0.063
+      },
+      {
+         "county": "Waukesha",
+         "alloc": 0.893
+      }
+   ],
+   "53069": [
+      {
+         "county": "Waukesha",
+         "alloc": 1
+      }
+   ],
+   "53070": [
+      {
+         "county": "Sheboygan",
+         "alloc": 1
+      }
+   ],
+   "53072": [
+      {
+         "county": "Waukesha",
+         "alloc": 1
+      }
+   ],
+   "53073": [
+      {
+         "county": "Sheboygan",
+         "alloc": 1
+      }
+   ],
+   "53074": [
+      {
+         "county": "Ozaukee",
+         "alloc": 1
+      }
+   ],
+   "53075": [
+      {
+         "county": "Ozaukee",
+         "alloc": 0.046
+      },
+      {
+         "county": "Sheboygan",
+         "alloc": 0.954
+      }
+   ],
+   "53076": [
+      {
+         "county": "Washington",
+         "alloc": 1
+      }
+   ],
+   "53078": [
+      {
+         "county": "Dodge",
+         "alloc": 1
+      }
+   ],
+   "53079": [
+      {
+         "county": "Fond du Lac",
+         "alloc": 0.982
+      },
+      {
+         "county": "Sheboygan",
+         "alloc": 0.018
+      }
+   ],
+   "53080": [
+      {
+         "county": "Ozaukee",
+         "alloc": 1
+      }
+   ],
+   "53081": [
+      {
+         "county": "Sheboygan",
+         "alloc": 1
+      }
+   ],
+   "53083": [
+      {
+         "county": "Sheboygan",
+         "alloc": 1
+      }
+   ],
+   "53085": [
+      {
+         "county": "Sheboygan",
+         "alloc": 1
+      }
+   ],
+   "53086": [
+      {
+         "county": "Washington",
+         "alloc": 1
+      }
+   ],
+   "53088": [
+      {
+         "county": "Calumet",
+         "alloc": 1
+      }
+   ],
+   "53089": [
+      {
+         "county": "Waukesha",
+         "alloc": 1
+      }
+   ],
+   "53090": [
+      {
+         "county": "Ozaukee",
+         "alloc": 0.009
+      },
+      {
+         "county": "Washington",
+         "alloc": 0.991
+      }
+   ],
+   "53091": [
+      {
+         "county": "Dodge",
+         "alloc": 0.974
+      },
+      {
+         "county": "Washington",
+         "alloc": 0.026
+      }
+   ],
+   "53092": [
+      {
+         "county": "Ozaukee",
+         "alloc": 1
+      }
+   ],
+   "53093": [
+      {
+         "county": "Sheboygan",
+         "alloc": 1
+      }
+   ],
+   "53094": [
+      {
+         "county": "Jefferson",
+         "alloc": 1
+      }
+   ],
+   "53095": [
+      {
+         "county": "Ozaukee",
+         "alloc": 0.008
+      },
+      {
+         "county": "Washington",
+         "alloc": 0.992
+      }
+   ],
+   "53097": [
+      {
+         "county": "Ozaukee",
+         "alloc": 1
+      }
+   ],
+   "53098": [
+      {
+         "county": "Dodge",
+         "alloc": 1
+      }
+   ],
+   "53103": [
+      {
+         "county": "Waukesha",
+         "alloc": 1
+      }
+   ],
+   "53104": [
+      {
+         "county": "Kenosha",
+         "alloc": 1
+      }
+   ],
+   "53105": [
+      {
+         "county": "Kenosha",
+         "alloc": 0.141
+      },
+      {
+         "county": "Racine",
+         "alloc": 0.68
+      },
+      {
+         "county": "Walworth",
+         "alloc": 0.178
+      }
+   ],
+   "53108": [
+      {
+         "county": "Racine",
+         "alloc": 1
+      }
+   ],
+   "53110": [
+      {
+         "county": "Milwaukee",
+         "alloc": 1
+      }
+   ],
+   "53114": [
+      {
+         "county": "Rock",
+         "alloc": 0.073
+      },
+      {
+         "county": "Walworth",
+         "alloc": 0.927
+      }
+   ],
+   "53115": [
+      {
+         "county": "Walworth",
+         "alloc": 1
+      }
+   ],
+   "53118": [
+      {
+         "county": "Jefferson",
+         "alloc": 0.068
+      },
+      {
+         "county": "Waukesha",
+         "alloc": 0.932
+      }
+   ],
+   "53119": [
+      {
+         "county": "Walworth",
+         "alloc": 0.064
+      },
+      {
+         "county": "Waukesha",
+         "alloc": 0.936
+      }
+   ],
+   "53120": [
+      {
+         "county": "Racine",
+         "alloc": 0.036
+      },
+      {
+         "county": "Walworth",
+         "alloc": 0.964
+      }
+   ],
+   "53121": [
+      {
+         "county": "Walworth",
+         "alloc": 1
+      }
+   ],
+   "53122": [
+      {
+         "county": "Waukesha",
+         "alloc": 1
+      }
+   ],
+   "53125": [
+      {
+         "county": "Walworth",
+         "alloc": 1
+      }
+   ],
+   "53126": [
+      {
+         "county": "Racine",
+         "alloc": 1
+      }
+   ],
+   "53128": [
+      {
+         "county": "Kenosha",
+         "alloc": 0.127
+      },
+      {
+         "county": "Walworth",
+         "alloc": 0.873
+      }
+   ],
+   "53129": [
+      {
+         "county": "Milwaukee",
+         "alloc": 1
+      }
+   ],
+   "53130": [
+      {
+         "county": "Milwaukee",
+         "alloc": 1
+      }
+   ],
+   "53132": [
+      {
+         "county": "Milwaukee",
+         "alloc": 1
+      }
+   ],
+   "53137": [
+      {
+         "county": "Jefferson",
+         "alloc": 1
+      }
+   ],
+   "53139": [
+      {
+         "county": "Kenosha",
+         "alloc": 0.163
+      },
+      {
+         "county": "Racine",
+         "alloc": 0.837
+      }
+   ],
+   "53140": [
+      {
+         "county": "Kenosha",
+         "alloc": 1
+      }
+   ],
+   "53142": [
+      {
+         "county": "Kenosha",
+         "alloc": 1
+      }
+   ],
+   "53143": [
+      {
+         "county": "Kenosha",
+         "alloc": 1
+      }
+   ],
+   "53144": [
+      {
+         "county": "Kenosha",
+         "alloc": 1
+      }
+   ],
+   "53146": [
+      {
+         "county": "Waukesha",
+         "alloc": 1
+      }
+   ],
+   "53147": [
+      {
+         "county": "Walworth",
+         "alloc": 1
+      }
+   ],
+   "53149": [
+      {
+         "county": "Racine",
+         "alloc": 0.013
+      },
+      {
+         "county": "Walworth",
+         "alloc": 0.036
+      },
+      {
+         "county": "Waukesha",
+         "alloc": 0.951
+      }
+   ],
+   "53150": [
+      {
+         "county": "Racine",
+         "alloc": 0.015
+      },
+      {
+         "county": "Waukesha",
+         "alloc": 0.985
+      }
+   ],
+   "53151": [
+      {
+         "county": "Waukesha",
+         "alloc": 1
+      }
+   ],
+   "53153": [
+      {
+         "county": "Waukesha",
+         "alloc": 1
+      }
+   ],
+   "53154": [
+      {
+         "county": "Milwaukee",
+         "alloc": 1
+      }
+   ],
+   "53156": [
+      {
+         "county": "Jefferson",
+         "alloc": 1
+      }
+   ],
+   "53158": [
+      {
+         "county": "Kenosha",
+         "alloc": 1
+      }
+   ],
+   "53167": [
+      {
+         "county": "Racine",
+         "alloc": 1
+      }
+   ],
+   "53168": [
+      {
+         "county": "Kenosha",
+         "alloc": 1
+      }
+   ],
+   "53170": [
+      {
+         "county": "Kenosha",
+         "alloc": 1
+      }
+   ],
+   "53172": [
+      {
+         "county": "Milwaukee",
+         "alloc": 1
+      }
+   ],
+   "53177": [
+      {
+         "county": "Kenosha",
+         "alloc": 0.04
+      },
+      {
+         "county": "Racine",
+         "alloc": 0.96
+      }
+   ],
+   "53178": [
+      {
+         "county": "Jefferson",
+         "alloc": 1
+      }
+   ],
+   "53179": [
+      {
+         "county": "Kenosha",
+         "alloc": 1
+      }
+   ],
+   "53181": [
+      {
+         "county": "Kenosha",
+         "alloc": 1
+      }
+   ],
+   "53182": [
+      {
+         "county": "Kenosha",
+         "alloc": 0.079
+      },
+      {
+         "county": "Racine",
+         "alloc": 0.921
+      }
+   ],
+   "53183": [
+      {
+         "county": "Waukesha",
+         "alloc": 1
+      }
+   ],
+   "53184": [
+      {
+         "county": "Walworth",
+         "alloc": 1
+      }
+   ],
+   "53185": [
+      {
+         "county": "Racine",
+         "alloc": 1
+      }
+   ],
+   "53186": [
+      {
+         "county": "Waukesha",
+         "alloc": 1
+      }
+   ],
+   "53188": [
+      {
+         "county": "Waukesha",
+         "alloc": 1
+      }
+   ],
+   "53189": [
+      {
+         "county": "Waukesha",
+         "alloc": 1
+      }
+   ],
+   "53190": [
+      {
+         "county": "Jefferson",
+         "alloc": 0.216
+      },
+      {
+         "county": "Rock",
+         "alloc": 0.068
+      },
+      {
+         "county": "Walworth",
+         "alloc": 0.715
+      }
+   ],
+   "53191": [
+      {
+         "county": "Walworth",
+         "alloc": 1
+      }
+   ],
+   "53192": [
+      {
+         "county": "Kenosha",
+         "alloc": 1
+      }
+   ],
+   "53195": [
+      {
+         "county": "Walworth",
+         "alloc": 1
+      }
+   ],
+   "53202": [
+      {
+         "county": "Milwaukee",
+         "alloc": 1
+      }
+   ],
+   "53203": [
+      {
+         "county": "Milwaukee",
+         "alloc": 1
+      }
+   ],
+   "53204": [
+      {
+         "county": "Milwaukee",
+         "alloc": 1
+      }
+   ],
+   "53205": [
+      {
+         "county": "Milwaukee",
+         "alloc": 1
+      }
+   ],
+   "53206": [
+      {
+         "county": "Milwaukee",
+         "alloc": 1
+      }
+   ],
+   "53207": [
+      {
+         "county": "Milwaukee",
+         "alloc": 1
+      }
+   ],
+   "53208": [
+      {
+         "county": "Milwaukee",
+         "alloc": 1
+      }
+   ],
+   "53209": [
+      {
+         "county": "Milwaukee",
+         "alloc": 1
+      }
+   ],
+   "53210": [
+      {
+         "county": "Milwaukee",
+         "alloc": 1
+      }
+   ],
+   "53211": [
+      {
+         "county": "Milwaukee",
+         "alloc": 1
+      }
+   ],
+   "53212": [
+      {
+         "county": "Milwaukee",
+         "alloc": 1
+      }
+   ],
+   "53213": [
+      {
+         "county": "Milwaukee",
+         "alloc": 1
+      }
+   ],
+   "53214": [
+      {
+         "county": "Milwaukee",
+         "alloc": 1
+      }
+   ],
+   "53215": [
+      {
+         "county": "Milwaukee",
+         "alloc": 1
+      }
+   ],
+   "53216": [
+      {
+         "county": "Milwaukee",
+         "alloc": 1
+      }
+   ],
+   "53217": [
+      {
+         "county": "Milwaukee",
+         "alloc": 0.997
+      },
+      {
+         "county": "Ozaukee",
+         "alloc": 0.003
+      }
+   ],
+   "53218": [
+      {
+         "county": "Milwaukee",
+         "alloc": 1
+      }
+   ],
+   "53219": [
+      {
+         "county": "Milwaukee",
+         "alloc": 1
+      }
+   ],
+   "53220": [
+      {
+         "county": "Milwaukee",
+         "alloc": 1
+      }
+   ],
+   "53221": [
+      {
+         "county": "Milwaukee",
+         "alloc": 1
+      }
+   ],
+   "53222": [
+      {
+         "county": "Milwaukee",
+         "alloc": 1
+      }
+   ],
+   "53223": [
+      {
+         "county": "Milwaukee",
+         "alloc": 1
+      }
+   ],
+   "53224": [
+      {
+         "county": "Milwaukee",
+         "alloc": 1
+      }
+   ],
+   "53225": [
+      {
+         "county": "Milwaukee",
+         "alloc": 1
+      },
+      {
+         "county": "Waukesha",
+         "alloc": 0
+      }
+   ],
+   "53226": [
+      {
+         "county": "Milwaukee",
+         "alloc": 1
+      }
+   ],
+   "53227": [
+      {
+         "county": "Milwaukee",
+         "alloc": 1
+      }
+   ],
+   "53228": [
+      {
+         "county": "Milwaukee",
+         "alloc": 1
+      }
+   ],
+   "53233": [
+      {
+         "county": "Milwaukee",
+         "alloc": 1
+      }
+   ],
+   "53235": [
+      {
+         "county": "Milwaukee",
+         "alloc": 1
+      }
+   ],
+   "53295": [
+      {
+         "county": "Milwaukee",
+         "alloc": 1
+      }
+   ],
+   "53402": [
+      {
+         "county": "Racine",
+         "alloc": 1
+      }
+   ],
+   "53403": [
+      {
+         "county": "Kenosha",
+         "alloc": 0.017
+      },
+      {
+         "county": "Racine",
+         "alloc": 0.983
+      }
+   ],
+   "53404": [
+      {
+         "county": "Racine",
+         "alloc": 1
+      }
+   ],
+   "53405": [
+      {
+         "county": "Racine",
+         "alloc": 1
+      }
+   ],
+   "53406": [
+      {
+         "county": "Racine",
+         "alloc": 1
+      }
+   ],
+   "53501": [
+      {
+         "county": "Rock",
+         "alloc": 1
+      }
+   ],
+   "53502": [
+      {
+         "county": "Green",
+         "alloc": 1
+      }
+   ],
+   "53503": [
+      {
+         "county": "Iowa",
+         "alloc": 1
+      }
+   ],
+   "53504": [
+      {
+         "county": "Green",
+         "alloc": 0.272
+      },
+      {
+         "county": "Lafayette",
+         "alloc": 0.728
+      }
+   ],
+   "53505": [
+      {
+         "county": "Rock",
+         "alloc": 1
+      }
+   ],
+   "53506": [
+      {
+         "county": "Iowa",
+         "alloc": 1
+      }
+   ],
+   "53507": [
+      {
+         "county": "Iowa",
+         "alloc": 1
+      }
+   ],
+   "53508": [
+      {
+         "county": "Dane",
+         "alloc": 0.575
+      },
+      {
+         "county": "Green",
+         "alloc": 0.425
+      }
+   ],
+   "53510": [
+      {
+         "county": "Lafayette",
+         "alloc": 1
+      }
+   ],
+   "53511": [
+      {
+         "county": "Rock",
+         "alloc": 1
+      }
+   ],
+   "53515": [
+      {
+         "county": "Dane",
+         "alloc": 1
+      }
+   ],
+   "53516": [
+      {
+         "county": "Dane",
+         "alloc": 0.016
+      },
+      {
+         "county": "Green",
+         "alloc": 0.323
+      },
+      {
+         "county": "Iowa",
+         "alloc": 0.145
+      },
+      {
+         "county": "Lafayette",
+         "alloc": 0.515
+      }
+   ],
+   "53517": [
+      {
+         "county": "Dane",
+         "alloc": 0.82
+      },
+      {
+         "county": "Iowa",
+         "alloc": 0.18
+      }
+   ],
+   "53518": [
+      {
+         "county": "Crawford",
+         "alloc": 0.015
+      },
+      {
+         "county": "Grant",
+         "alloc": 0.39
+      },
+      {
+         "county": "Richland",
+         "alloc": 0.595
+      }
+   ],
+   "53520": [
+      {
+         "county": "Green",
+         "alloc": 0.815
+      },
+      {
+         "county": "Rock",
+         "alloc": 0.185
+      }
+   ],
+   "53521": [
+      {
+         "county": "Dane",
+         "alloc": 0.527
+      },
+      {
+         "county": "Green",
+         "alloc": 0.392
+      },
+      {
+         "county": "Rock",
+         "alloc": 0.081
+      }
+   ],
+   "53522": [
+      {
+         "county": "Green",
+         "alloc": 0.933
+      },
+      {
+         "county": "Lafayette",
+         "alloc": 0.067
+      }
+   ],
+   "53523": [
+      {
+         "county": "Dane",
+         "alloc": 0.512
+      },
+      {
+         "county": "Jefferson",
+         "alloc": 0.488
+      }
+   ],
+   "53525": [
+      {
+         "county": "Rock",
+         "alloc": 1
+      }
+   ],
+   "53526": [
+      {
+         "county": "Iowa",
+         "alloc": 1
+      }
+   ],
+   "53527": [
+      {
+         "county": "Dane",
+         "alloc": 1
+      }
+   ],
+   "53528": [
+      {
+         "county": "Dane",
+         "alloc": 1
+      }
+   ],
+   "53529": [
+      {
+         "county": "Dane",
+         "alloc": 1
+      }
+   ],
+   "53530": [
+      {
+         "county": "Lafayette",
+         "alloc": 1
+      }
+   ],
+   "53531": [
+      {
+         "county": "Dane",
+         "alloc": 1
+      }
+   ],
+   "53532": [
+      {
+         "county": "Columbia",
+         "alloc": 0.017
+      },
+      {
+         "county": "Dane",
+         "alloc": 0.983
+      }
+   ],
+   "53533": [
+      {
+         "county": "Iowa",
+         "alloc": 1
+      }
+   ],
+   "53534": [
+      {
+         "county": "Dane",
+         "alloc": 0.182
+      },
+      {
+         "county": "Jefferson",
+         "alloc": 0.02
+      },
+      {
+         "county": "Rock",
+         "alloc": 0.798
+      }
+   ],
+   "53536": [
+      {
+         "county": "Rock",
+         "alloc": 1
+      }
+   ],
+   "53537": [
+      {
+         "county": "Rock",
+         "alloc": 1
+      }
+   ],
+   "53538": [
+      {
+         "county": "Jefferson",
+         "alloc": 0.993
+      },
+      {
+         "county": "Rock",
+         "alloc": 0.007
+      }
+   ],
+   "53540": [
+      {
+         "county": "Richland",
+         "alloc": 1
+      }
+   ],
+   "53541": [
+      {
+         "county": "Lafayette",
+         "alloc": 1
+      }
+   ],
+   "53543": [
+      {
+         "county": "Grant",
+         "alloc": 0.048
+      },
+      {
+         "county": "Iowa",
+         "alloc": 0.952
+      }
+   ],
+   "53544": [
+      {
+         "county": "Dane",
+         "alloc": 0.012
+      },
+      {
+         "county": "Iowa",
+         "alloc": 0.987
+      }
+   ],
+   "53545": [
+      {
+         "county": "Rock",
+         "alloc": 1
+      }
+   ],
+   "53546": [
+      {
+         "county": "Rock",
+         "alloc": 1
+      }
+   ],
+   "53548": [
+      {
+         "county": "Rock",
+         "alloc": 1
+      }
+   ],
+   "53549": [
+      {
+         "county": "Jefferson",
+         "alloc": 1
+      }
+   ],
+   "53550": [
+      {
+         "county": "Green",
+         "alloc": 1
+      }
+   ],
+   "53551": [
+      {
+         "county": "Jefferson",
+         "alloc": 1
+      }
+   ],
+   "53553": [
+      {
+         "county": "Iowa",
+         "alloc": 1
+      }
+   ],
+   "53554": [
+      {
+         "county": "Grant",
+         "alloc": 0.881
+      },
+      {
+         "county": "Iowa",
+         "alloc": 0.119
+      }
+   ],
+   "53555": [
+      {
+         "county": "Columbia",
+         "alloc": 0.928
+      },
+      {
+         "county": "Dane",
+         "alloc": 0.072
+      }
+   ],
+   "53556": [
+      {
+         "county": "Richland",
+         "alloc": 0.88
+      },
+      {
+         "county": "Sauk",
+         "alloc": 0.12
+      }
+   ],
+   "53557": [
+      {
+         "county": "Dodge",
+         "alloc": 1
+      }
+   ],
+   "53558": [
+      {
+         "county": "Dane",
+         "alloc": 1
+      }
+   ],
+   "53559": [
+      {
+         "county": "Dane",
+         "alloc": 0.998
+      },
+      {
+         "county": "Jefferson",
+         "alloc": 0.002
+      }
+   ],
+   "53560": [
+      {
+         "county": "Dane",
+         "alloc": 0.974
+      },
+      {
+         "county": "Iowa",
+         "alloc": 0.026
+      }
+   ],
+   "53561": [
+      {
+         "county": "Columbia",
+         "alloc": 0.157
+      },
+      {
+         "county": "Sauk",
+         "alloc": 0.843
+      }
+   ],
+   "53562": [
+      {
+         "county": "Dane",
+         "alloc": 1
+      }
+   ],
+   "53563": [
+      {
+         "county": "Jefferson",
+         "alloc": 0.009
+      },
+      {
+         "county": "Rock",
+         "alloc": 0.991
+      }
+   ],
+   "53565": [
+      {
+         "county": "Iowa",
+         "alloc": 0.877
+      },
+      {
+         "county": "Lafayette",
+         "alloc": 0.123
+      }
+   ],
+   "53566": [
+      {
+         "county": "Green",
+         "alloc": 1
+      }
+   ],
+   "53569": [
+      {
+         "county": "Grant",
+         "alloc": 0.755
+      },
+      {
+         "county": "Iowa",
+         "alloc": 0.245
+      }
+   ],
+   "53570": [
+      {
+         "county": "Green",
+         "alloc": 1
+      }
+   ],
+   "53571": [
+      {
+         "county": "Dane",
+         "alloc": 1
+      }
+   ],
+   "53572": [
+      {
+         "county": "Dane",
+         "alloc": 0.998
+      },
+      {
+         "county": "Green",
+         "alloc": 0.002
+      }
+   ],
+   "53573": [
+      {
+         "county": "Grant",
+         "alloc": 0.683
+      },
+      {
+         "county": "Iowa",
+         "alloc": 0.077
+      },
+      {
+         "county": "Richland",
+         "alloc": 0.239
+      }
+   ],
+   "53574": [
+      {
+         "county": "Dane",
+         "alloc": 0.012
+      },
+      {
+         "county": "Green",
+         "alloc": 0.988
+      }
+   ],
+   "53575": [
+      {
+         "county": "Dane",
+         "alloc": 1
+      }
+   ],
+   "53576": [
+      {
+         "county": "Rock",
+         "alloc": 1
+      }
+   ],
+   "53577": [
+      {
+         "county": "Sauk",
+         "alloc": 1
+      }
+   ],
+   "53578": [
+      {
+         "county": "Columbia",
+         "alloc": 0.117
+      },
+      {
+         "county": "Sauk",
+         "alloc": 0.883
+      }
+   ],
+   "53579": [
+      {
+         "county": "Dodge",
+         "alloc": 1
+      }
+   ],
+   "53580": [
+      {
+         "county": "Iowa",
+         "alloc": 1
+      }
+   ],
+   "53581": [
+      {
+         "county": "Richland",
+         "alloc": 1
+      }
+   ],
+   "53582": [
+      {
+         "county": "Iowa",
+         "alloc": 1
+      }
+   ],
+   "53583": [
+      {
+         "county": "Columbia",
+         "alloc": 0.009
+      },
+      {
+         "county": "Dane",
+         "alloc": 0.253
+      },
+      {
+         "county": "Sauk",
+         "alloc": 0.737
+      }
+   ],
+   "53585": [
+      {
+         "county": "Rock",
+         "alloc": 0.01
+      },
+      {
+         "county": "Walworth",
+         "alloc": 0.99
+      }
+   ],
+   "53586": [
+      {
+         "county": "Lafayette",
+         "alloc": 1
+      }
+   ],
+   "53587": [
+      {
+         "county": "Lafayette",
+         "alloc": 1
+      }
+   ],
+   "53588": [
+      {
+         "county": "Iowa",
+         "alloc": 0.094
+      },
+      {
+         "county": "Sauk",
+         "alloc": 0.906
+      }
+   ],
+   "53589": [
+      {
+         "county": "Dane",
+         "alloc": 0.999
+      },
+      {
+         "county": "Rock",
+         "alloc": 0.001
+      }
+   ],
+   "53590": [
+      {
+         "county": "Dane",
+         "alloc": 1
+      }
+   ],
+   "53593": [
+      {
+         "county": "Dane",
+         "alloc": 1
+      }
+   ],
+   "53594": [
+      {
+         "county": "Dane",
+         "alloc": 0.037
+      },
+      {
+         "county": "Dodge",
+         "alloc": 0.134
+      },
+      {
+         "county": "Jefferson",
+         "alloc": 0.83
+      }
+   ],
+   "53597": [
+      {
+         "county": "Dane",
+         "alloc": 1
+      }
+   ],
+   "53598": [
+      {
+         "county": "Dane",
+         "alloc": 1
+      }
+   ],
+   "53599": [
+      {
+         "county": "Lafayette",
+         "alloc": 1
+      }
+   ],
+   "53702": [
+      {
+         "county": "Waukesha",
+         "alloc": 50
+      }
+   ],
+   "53703": [
+      {
+         "county": "Dane",
+         "alloc": 1
+      }
+   ],
+   "53704": [
+      {
+         "county": "Dane",
+         "alloc": 1
+      }
+   ],
+   "53705": [
+      {
+         "county": "Dane",
+         "alloc": 1
+      }
+   ],
+   "53706": [
+      {
+         "county": "Dane",
+         "alloc": 1
+      }
+   ],
+   "53711": [
+      {
+         "county": "Dane",
+         "alloc": 1
+      }
+   ],
+   "53713": [
+      {
+         "county": "Dane",
+         "alloc": 1
+      }
+   ],
+   "53714": [
+      {
+         "county": "Dane",
+         "alloc": 1
+      }
+   ],
+   "53715": [
+      {
+         "county": "Dane",
+         "alloc": 1
+      }
+   ],
+   "53716": [
+      {
+         "county": "Dane",
+         "alloc": 1
+      }
+   ],
+   "53717": [
+      {
+         "county": "Dane",
+         "alloc": 1
+      }
+   ],
+   "53718": [
+      {
+         "county": "Dane",
+         "alloc": 1
+      }
+   ],
+   "53719": [
+      {
+         "county": "Dane",
+         "alloc": 1
+      }
+   ],
+   "53726": [
+      {
+         "county": "Dane",
+         "alloc": 1
+      }
+   ],
+   "53801": [
+      {
+         "county": "Grant",
+         "alloc": 1
+      }
+   ],
+   "53802": [
+      {
+         "county": "Grant",
+         "alloc": 1
+      }
+   ],
+   "53803": [
+      {
+         "county": "Lafayette",
+         "alloc": 1
+      }
+   ],
+   "53804": [
+      {
+         "county": "Grant",
+         "alloc": 1
+      }
+   ],
+   "53805": [
+      {
+         "county": "Crawford",
+         "alloc": 0.112
+      },
+      {
+         "county": "Grant",
+         "alloc": 0.888
+      }
+   ],
+   "53806": [
+      {
+         "county": "Grant",
+         "alloc": 1
+      }
+   ],
+   "53807": [
+      {
+         "county": "Grant",
+         "alloc": 0.813
+      },
+      {
+         "county": "Lafayette",
+         "alloc": 0.187
+      }
+   ],
+   "53808": [
+      {
+         "county": "Grant",
+         "alloc": 1
+      }
+   ],
+   "53809": [
+      {
+         "county": "Grant",
+         "alloc": 1
+      }
+   ],
+   "53810": [
+      {
+         "county": "Grant",
+         "alloc": 1
+      }
+   ],
+   "53811": [
+      {
+         "county": "Grant",
+         "alloc": 0.967
+      },
+      {
+         "county": "Lafayette",
+         "alloc": 0.033
+      }
+   ],
+   "53813": [
+      {
+         "county": "Grant",
+         "alloc": 1
+      }
+   ],
+   "53816": [
+      {
+         "county": "Grant",
+         "alloc": 1
+      }
+   ],
+   "53817": [
+      {
+         "county": "Grant",
+         "alloc": 1
+      }
+   ],
+   "53818": [
+      {
+         "county": "Grant",
+         "alloc": 0.954
+      },
+      {
+         "county": "Iowa",
+         "alloc": 0.002
+      },
+      {
+         "county": "Lafayette",
+         "alloc": 0.045
+      }
+   ],
+   "53820": [
+      {
+         "county": "Grant",
+         "alloc": 1
+      }
+   ],
+   "53821": [
+      {
+         "county": "Crawford",
+         "alloc": 0.971
+      },
+      {
+         "county": "Grant",
+         "alloc": 0.029
+      }
+   ],
+   "53825": [
+      {
+         "county": "Grant",
+         "alloc": 1
+      }
+   ],
+   "53826": [
+      {
+         "county": "Crawford",
+         "alloc": 1
+      }
+   ],
+   "53827": [
+      {
+         "county": "Grant",
+         "alloc": 1
+      }
+   ],
+   "53901": [
+      {
+         "county": "Columbia",
+         "alloc": 0.996
+      },
+      {
+         "county": "Marquette",
+         "alloc": 0.004
+      }
+   ],
+   "53910": [
+      {
+         "county": "Adams",
+         "alloc": 1
+      }
+   ],
+   "53911": [
+      {
+         "county": "Columbia",
+         "alloc": 0.981
+      },
+      {
+         "county": "Dane",
+         "alloc": 0.019
+      }
+   ],
+   "53913": [
+      {
+         "county": "Columbia",
+         "alloc": 0
+      },
+      {
+         "county": "Sauk",
+         "alloc": 1
+      }
+   ],
+   "53916": [
+      {
+         "county": "Dodge",
+         "alloc": 1
+      }
+   ],
+   "53919": [
+      {
+         "county": "Fond du Lac",
+         "alloc": 1
+      }
+   ],
+   "53920": [
+      {
+         "county": "Adams",
+         "alloc": 0.258
+      },
+      {
+         "county": "Marquette",
+         "alloc": 0.742
+      }
+   ],
+   "53922": [
+      {
+         "county": "Dodge",
+         "alloc": 1
+      }
+   ],
+   "53923": [
+      {
+         "county": "Columbia",
+         "alloc": 0.888
+      },
+      {
+         "county": "Green Lake",
+         "alloc": 0.112
+      }
+   ],
+   "53924": [
+      {
+         "county": "Richland",
+         "alloc": 0.971
+      },
+      {
+         "county": "Sauk",
+         "alloc": 0.029
+      }
+   ],
+   "53925": [
+      {
+         "county": "Columbia",
+         "alloc": 0.807
+      },
+      {
+         "county": "Dane",
+         "alloc": 0.037
+      },
+      {
+         "county": "Dodge",
+         "alloc": 0.156
+      }
+   ],
+   "53926": [
+      {
+         "county": "Columbia",
+         "alloc": 0.182
+      },
+      {
+         "county": "Green Lake",
+         "alloc": 0.68
+      },
+      {
+         "county": "Marquette",
+         "alloc": 0.138
+      }
+   ],
+   "53928": [
+      {
+         "county": "Columbia",
+         "alloc": 1
+      }
+   ],
+   "53929": [
+      {
+         "county": "Juneau",
+         "alloc": 0.846
+      },
+      {
+         "county": "Monroe",
+         "alloc": 0.082
+      },
+      {
+         "county": "Vernon",
+         "alloc": 0.073
+      }
+   ],
+   "53930": [
+      {
+         "county": "Marquette",
+         "alloc": 1
+      }
+   ],
+   "53931": [
+      {
+         "county": "Fond du Lac",
+         "alloc": 1
+      }
+   ],
+   "53932": [
+      {
+         "county": "Columbia",
+         "alloc": 0.978
+      },
+      {
+         "county": "Dodge",
+         "alloc": 0.022
+      }
+   ],
+   "53933": [
+      {
+         "county": "Dodge",
+         "alloc": 1
+      }
+   ],
+   "53934": [
+      {
+         "county": "Adams",
+         "alloc": 1
+      }
+   ],
+   "53935": [
+      {
+         "county": "Columbia",
+         "alloc": 1
+      }
+   ],
+   "53936": [
+      {
+         "county": "Adams",
+         "alloc": 1
+      }
+   ],
+   "53937": [
+      {
+         "county": "Richland",
+         "alloc": 0.147
+      },
+      {
+         "county": "Sauk",
+         "alloc": 0.853
+      }
+   ],
+   "53939": [
+      {
+         "county": "Green Lake",
+         "alloc": 1
+      }
+   ],
+   "53941": [
+      {
+         "county": "Juneau",
+         "alloc": 0.016
+      },
+      {
+         "county": "Sauk",
+         "alloc": 0.984
+      }
+   ],
+   "53943": [
+      {
+         "county": "Sauk",
+         "alloc": 1
+      }
+   ],
+   "53944": [
+      {
+         "county": "Juneau",
+         "alloc": 0.921
+      },
+      {
+         "county": "Sauk",
+         "alloc": 0.079
+      }
+   ],
+   "53946": [
+      {
+         "county": "Dodge",
+         "alloc": 0
+      },
+      {
+         "county": "Fond du Lac",
+         "alloc": 0.018
+      },
+      {
+         "county": "Green Lake",
+         "alloc": 0.98
+      },
+      {
+         "county": "Marquette",
+         "alloc": 0.001
+      }
+   ],
+   "53947": [
+      {
+         "county": "Green Lake",
+         "alloc": 1
+      }
+   ],
+   "53948": [
+      {
+         "county": "Juneau",
+         "alloc": 1
+      }
+   ],
+   "53949": [
+      {
+         "county": "Green Lake",
+         "alloc": 0.005
+      },
+      {
+         "county": "Marquette",
+         "alloc": 0.995
+      }
+   ],
+   "53950": [
+      {
+         "county": "Juneau",
+         "alloc": 1
+      }
+   ],
+   "53951": [
+      {
+         "county": "Sauk",
+         "alloc": 1
+      }
+   ],
+   "53952": [
+      {
+         "county": "Adams",
+         "alloc": 0.574
+      },
+      {
+         "county": "Marquette",
+         "alloc": 0.426
+      }
+   ],
+   "53953": [
+      {
+         "county": "Marquette",
+         "alloc": 1
+      }
+   ],
+   "53954": [
+      {
+         "county": "Columbia",
+         "alloc": 0.981
+      },
+      {
+         "county": "Marquette",
+         "alloc": 0.019
+      }
+   ],
+   "53955": [
+      {
+         "county": "Columbia",
+         "alloc": 1
+      }
+   ],
+   "53956": [
+      {
+         "county": "Columbia",
+         "alloc": 0.382
+      },
+      {
+         "county": "Dodge",
+         "alloc": 0.601
+      },
+      {
+         "county": "Green Lake",
+         "alloc": 0.017
+      }
+   ],
+   "53959": [
+      {
+         "county": "Sauk",
+         "alloc": 1
+      }
+   ],
+   "53960": [
+      {
+         "county": "Columbia",
+         "alloc": 1
+      }
+   ],
+   "53961": [
+      {
+         "county": "Sauk",
+         "alloc": 1
+      }
+   ],
+   "53963": [
+      {
+         "county": "Dodge",
+         "alloc": 0.626
+      },
+      {
+         "county": "Fond du Lac",
+         "alloc": 0.374
+      }
+   ],
+   "53964": [
+      {
+         "county": "Adams",
+         "alloc": 0.019
+      },
+      {
+         "county": "Marquette",
+         "alloc": 0.975
+      },
+      {
+         "county": "Waushara",
+         "alloc": 0.005
+      }
+   ],
+   "53965": [
+      {
+         "county": "Adams",
+         "alloc": 0.305
+      },
+      {
+         "county": "Columbia",
+         "alloc": 0.304
+      },
+      {
+         "county": "Juneau",
+         "alloc": 0.054
+      },
+      {
+         "county": "Sauk",
+         "alloc": 0.337
+      }
+   ],
+   "53968": [
+      {
+         "county": "Juneau",
+         "alloc": 0.766
+      },
+      {
+         "county": "Sauk",
+         "alloc": 0.216
+      },
+      {
+         "county": "Vernon",
+         "alloc": 0.018
+      }
+   ],
+   "53969": [
+      {
+         "county": "Columbia",
+         "alloc": 1
+      }
+   ],
+   "54001": [
+      {
+         "county": "Polk",
+         "alloc": 1
+      }
+   ],
+   "54002": [
+      {
+         "county": "St. Croix",
+         "alloc": 1
+      }
+   ],
+   "54003": [
+      {
+         "county": "Pierce",
+         "alloc": 1
+      }
+   ],
+   "54004": [
+      {
+         "county": "Barron",
+         "alloc": 0.418
+      },
+      {
+         "county": "Polk",
+         "alloc": 0.582
+      }
+   ],
+   "54005": [
+      {
+         "county": "Barron",
+         "alloc": 0.053
+      },
+      {
+         "county": "Dunn",
+         "alloc": 0.034
+      },
+      {
+         "county": "Polk",
+         "alloc": 0.842
+      },
+      {
+         "county": "St. Croix",
+         "alloc": 0.071
+      }
+   ],
+   "54006": [
+      {
+         "county": "Polk",
+         "alloc": 1
+      }
+   ],
+   "54007": [
+      {
+         "county": "Polk",
+         "alloc": 0.26
+      },
+      {
+         "county": "St. Croix",
+         "alloc": 0.74
+      }
+   ],
+   "54009": [
+      {
+         "county": "Polk",
+         "alloc": 1
+      }
+   ],
+   "54010": [
+      {
+         "county": "Pierce",
+         "alloc": 1
+      }
+   ],
+   "54011": [
+      {
+         "county": "Pierce",
+         "alloc": 1
+      }
+   ],
+   "54013": [
+      {
+         "county": "Dunn",
+         "alloc": 0.009
+      },
+      {
+         "county": "St. Croix",
+         "alloc": 0.991
+      }
+   ],
+   "54014": [
+      {
+         "county": "Pierce",
+         "alloc": 1
+      }
+   ],
+   "54015": [
+      {
+         "county": "St. Croix",
+         "alloc": 1
+      }
+   ],
+   "54016": [
+      {
+         "county": "St. Croix",
+         "alloc": 1
+      }
+   ],
+   "54017": [
+      {
+         "county": "Polk",
+         "alloc": 0.009
+      },
+      {
+         "county": "St. Croix",
+         "alloc": 0.991
+      }
+   ],
+   "54020": [
+      {
+         "county": "Polk",
+         "alloc": 0.987
+      },
+      {
+         "county": "St. Croix",
+         "alloc": 0.013
+      }
+   ],
+   "54021": [
+      {
+         "county": "Pierce",
+         "alloc": 1
+      }
+   ],
+   "54022": [
+      {
+         "county": "Pierce",
+         "alloc": 0.722
+      },
+      {
+         "county": "St. Croix",
+         "alloc": 0.278
+      }
+   ],
+   "54023": [
+      {
+         "county": "St. Croix",
+         "alloc": 1
+      }
+   ],
+   "54024": [
+      {
+         "county": "Polk",
+         "alloc": 1
+      }
+   ],
+   "54025": [
+      {
+         "county": "St. Croix",
+         "alloc": 1
+      }
+   ],
+   "54026": [
+      {
+         "county": "Polk",
+         "alloc": 0.63
+      },
+      {
+         "county": "St. Croix",
+         "alloc": 0.37
+      }
+   ],
+   "54027": [
+      {
+         "county": "St. Croix",
+         "alloc": 1
+      }
+   ],
+   "54028": [
+      {
+         "county": "St. Croix",
+         "alloc": 1
+      }
+   ],
+   "54082": [
+      {
+         "county": "St. Croix",
+         "alloc": 1
+      }
+   ],
+   "54101": [
+      {
+         "county": "Oconto",
+         "alloc": 1
+      }
+   ],
+   "54102": [
+      {
+         "county": "Marinette",
+         "alloc": 1
+      }
+   ],
+   "54103": [
+      {
+         "county": "Forest",
+         "alloc": 0.981
+      },
+      {
+         "county": "Marinette",
+         "alloc": 0.019
+      }
+   ],
+   "54104": [
+      {
+         "county": "Forest",
+         "alloc": 0.006
+      },
+      {
+         "county": "Marinette",
+         "alloc": 0.994
+      }
+   ],
+   "54106": [
+      {
+         "county": "Outagamie",
+         "alloc": 1
+      }
+   ],
+   "54107": [
+      {
+         "county": "Outagamie",
+         "alloc": 0.002
+      },
+      {
+         "county": "Shawano",
+         "alloc": 0.998
+      }
+   ],
+   "54110": [
+      {
+         "county": "Brown",
+         "alloc": 0.023
+      },
+      {
+         "county": "Calumet",
+         "alloc": 0.868
+      },
+      {
+         "county": "Manitowoc",
+         "alloc": 0.109
+      }
+   ],
+   "54111": [
+      {
+         "county": "Oconto",
+         "alloc": 0.035
+      },
+      {
+         "county": "Shawano",
+         "alloc": 0.965
+      }
+   ],
+   "54112": [
+      {
+         "county": "Marinette",
+         "alloc": 0.817
+      },
+      {
+         "county": "Oconto",
+         "alloc": 0.183
+      }
+   ],
+   "54113": [
+      {
+         "county": "Outagamie",
+         "alloc": 1
+      }
+   ],
+   "54114": [
+      {
+         "county": "Marinette",
+         "alloc": 0.947
+      },
+      {
+         "county": "Oconto",
+         "alloc": 0.053
+      }
+   ],
+   "54115": [
+      {
+         "county": "Brown",
+         "alloc": 0.95
+      },
+      {
+         "county": "Outagamie",
+         "alloc": 0.05
+      }
+   ],
+   "54119": [
+      {
+         "county": "Marinette",
+         "alloc": 1
+      }
+   ],
+   "54120": [
+      {
+         "county": "Florence",
+         "alloc": 0.637
+      },
+      {
+         "county": "Marinette",
+         "alloc": 0.363
+      }
+   ],
+   "54121": [
+      {
+         "county": "Florence",
+         "alloc": 1
+      }
+   ],
+   "54123": [
+      {
+         "county": "Calumet",
+         "alloc": 1
+      }
+   ],
+   "54124": [
+      {
+         "county": "Menominee",
+         "alloc": 0.044
+      },
+      {
+         "county": "Oconto",
+         "alloc": 0.928
+      },
+      {
+         "county": "Shawano",
+         "alloc": 0.028
+      }
+   ],
+   "54125": [
+      {
+         "county": "Forest",
+         "alloc": 0.004
+      },
+      {
+         "county": "Marinette",
+         "alloc": 0.996
+      }
+   ],
+   "54126": [
+      {
+         "county": "Brown",
+         "alloc": 0.996
+      },
+      {
+         "county": "Manitowoc",
+         "alloc": 0.004
+      }
+   ],
+   "54127": [
+      {
+         "county": "Shawano",
+         "alloc": 1
+      }
+   ],
+   "54128": [
+      {
+         "county": "Shawano",
+         "alloc": 1
+      }
+   ],
+   "54129": [
+      {
+         "county": "Calumet",
+         "alloc": 1
+      }
+   ],
+   "54130": [
+      {
+         "county": "Brown",
+         "alloc": 0.036
+      },
+      {
+         "county": "Calumet",
+         "alloc": 0.018
+      },
+      {
+         "county": "Outagamie",
+         "alloc": 0.946
+      }
+   ],
+   "54135": [
+      {
+         "county": "Menominee",
+         "alloc": 1
+      }
+   ],
+   "54136": [
+      {
+         "county": "Outagamie",
+         "alloc": 1
+      }
+   ],
+   "54137": [
+      {
+         "county": "Oconto",
+         "alloc": 0.319
+      },
+      {
+         "county": "Shawano",
+         "alloc": 0.681
+      }
+   ],
+   "54138": [
+      {
+         "county": "Oconto",
+         "alloc": 1
+      }
+   ],
+   "54139": [
+      {
+         "county": "Marinette",
+         "alloc": 0.012
+      },
+      {
+         "county": "Oconto",
+         "alloc": 0.988
+      }
+   ],
+   "54140": [
+      {
+         "county": "Outagamie",
+         "alloc": 1
+      }
+   ],
+   "54141": [
+      {
+         "county": "Oconto",
+         "alloc": 1
+      }
+   ],
+   "54143": [
+      {
+         "county": "Marinette",
+         "alloc": 1
+      }
+   ],
+   "54149": [
+      {
+         "county": "Oconto",
+         "alloc": 1
+      }
+   ],
+   "54150": [
+      {
+         "county": "Menominee",
+         "alloc": 0.761
+      },
+      {
+         "county": "Shawano",
+         "alloc": 0.239
+      }
+   ],
+   "54151": [
+      {
+         "county": "Florence",
+         "alloc": 0.277
+      },
+      {
+         "county": "Marinette",
+         "alloc": 0.723
+      }
+   ],
+   "54153": [
+      {
+         "county": "Oconto",
+         "alloc": 1
+      }
+   ],
+   "54154": [
+      {
+         "county": "Oconto",
+         "alloc": 0.958
+      },
+      {
+         "county": "Shawano",
+         "alloc": 0.042
+      }
+   ],
+   "54155": [
+      {
+         "county": "Brown",
+         "alloc": 0.68
+      },
+      {
+         "county": "Outagamie",
+         "alloc": 0.32
+      }
+   ],
+   "54156": [
+      {
+         "county": "Marinette",
+         "alloc": 1
+      }
+   ],
+   "54157": [
+      {
+         "county": "Marinette",
+         "alloc": 0.999
+      },
+      {
+         "county": "Oconto",
+         "alloc": 0.001
+      }
+   ],
+   "54159": [
+      {
+         "county": "Marinette",
+         "alloc": 1
+      }
+   ],
+   "54160": [
+      {
+         "county": "Calumet",
+         "alloc": 1
+      }
+   ],
+   "54161": [
+      {
+         "county": "Marinette",
+         "alloc": 0.624
+      },
+      {
+         "county": "Oconto",
+         "alloc": 0.376
+      }
+   ],
+   "54162": [
+      {
+         "county": "Brown",
+         "alloc": 0.517
+      },
+      {
+         "county": "Oconto",
+         "alloc": 0.187
+      },
+      {
+         "county": "Shawano",
+         "alloc": 0.296
+      }
+   ],
+   "54165": [
+      {
+         "county": "Brown",
+         "alloc": 0.008
+      },
+      {
+         "county": "Outagamie",
+         "alloc": 0.957
+      },
+      {
+         "county": "Shawano",
+         "alloc": 0.035
+      }
+   ],
+   "54166": [
+      {
+         "county": "Shawano",
+         "alloc": 1
+      }
+   ],
+   "54169": [
+      {
+         "county": "Calumet",
+         "alloc": 1
+      }
+   ],
+   "54170": [
+      {
+         "county": "Outagamie",
+         "alloc": 0.936
+      },
+      {
+         "county": "Shawano",
+         "alloc": 0.062
+      },
+      {
+         "county": "Waupaca",
+         "alloc": 0.002
+      }
+   ],
+   "54171": [
+      {
+         "county": "Oconto",
+         "alloc": 1
+      }
+   ],
+   "54173": [
+      {
+         "county": "Brown",
+         "alloc": 1
+      }
+   ],
+   "54174": [
+      {
+         "county": "Menominee",
+         "alloc": 0.059
+      },
+      {
+         "county": "Oconto",
+         "alloc": 0.941
+      }
+   ],
+   "54175": [
+      {
+         "county": "Oconto",
+         "alloc": 1
+      }
+   ],
+   "54177": [
+      {
+         "county": "Marinette",
+         "alloc": 1
+      }
+   ],
+   "54180": [
+      {
+         "county": "Brown",
+         "alloc": 0.947
+      },
+      {
+         "county": "Outagamie",
+         "alloc": 0.053
+      }
+   ],
+   "54201": [
+      {
+         "county": "Door",
+         "alloc": 0.029
+      },
+      {
+         "county": "Kewaunee",
+         "alloc": 0.971
+      }
+   ],
+   "54202": [
+      {
+         "county": "Door",
+         "alloc": 1
+      }
+   ],
+   "54204": [
+      {
+         "county": "Door",
+         "alloc": 1
+      }
+   ],
+   "54205": [
+      {
+         "county": "Door",
+         "alloc": 0.03
+      },
+      {
+         "county": "Kewaunee",
+         "alloc": 0.97
+      }
+   ],
+   "54207": [
+      {
+         "county": "Manitowoc",
+         "alloc": 1
+      }
+   ],
+   "54208": [
+      {
+         "county": "Brown",
+         "alloc": 0.793
+      },
+      {
+         "county": "Kewaunee",
+         "alloc": 0.118
+      },
+      {
+         "county": "Manitowoc",
+         "alloc": 0.089
+      }
+   ],
+   "54209": [
+      {
+         "county": "Door",
+         "alloc": 1
+      }
+   ],
+   "54210": [
+      {
+         "county": "Door",
+         "alloc": 1
+      }
+   ],
+   "54211": [
+      {
+         "county": "Door",
+         "alloc": 1
+      }
+   ],
+   "54212": [
+      {
+         "county": "Door",
+         "alloc": 1
+      }
+   ],
+   "54213": [
+      {
+         "county": "Door",
+         "alloc": 0.949
+      },
+      {
+         "county": "Kewaunee",
+         "alloc": 0.051
+      }
+   ],
+   "54214": [
+      {
+         "county": "Manitowoc",
+         "alloc": 1
+      }
+   ],
+   "54216": [
+      {
+         "county": "Kewaunee",
+         "alloc": 1
+      }
+   ],
+   "54217": [
+      {
+         "county": "Brown",
+         "alloc": 0.106
+      },
+      {
+         "county": "Door",
+         "alloc": 0.055
+      },
+      {
+         "county": "Kewaunee",
+         "alloc": 0.839
+      }
+   ],
+   "54220": [
+      {
+         "county": "Manitowoc",
+         "alloc": 1
+      }
+   ],
+   "54227": [
+      {
+         "county": "Manitowoc",
+         "alloc": 1
+      }
+   ],
+   "54228": [
+      {
+         "county": "Manitowoc",
+         "alloc": 1
+      }
+   ],
+   "54229": [
+      {
+         "county": "Brown",
+         "alloc": 1
+      }
+   ],
+   "54230": [
+      {
+         "county": "Manitowoc",
+         "alloc": 1
+      }
+   ],
+   "54232": [
+      {
+         "county": "Manitowoc",
+         "alloc": 1
+      }
+   ],
+   "54234": [
+      {
+         "county": "Door",
+         "alloc": 1
+      }
+   ],
+   "54235": [
+      {
+         "county": "Door",
+         "alloc": 1
+      }
+   ],
+   "54241": [
+      {
+         "county": "Manitowoc",
+         "alloc": 1
+      }
+   ],
+   "54245": [
+      {
+         "county": "Manitowoc",
+         "alloc": 1
+      }
+   ],
+   "54246": [
+      {
+         "county": "Door",
+         "alloc": 1
+      }
+   ],
+   "54247": [
+      {
+         "county": "Manitowoc",
+         "alloc": 1
+      }
+   ],
+   "54301": [
+      {
+         "county": "Brown",
+         "alloc": 1
+      }
+   ],
+   "54302": [
+      {
+         "county": "Brown",
+         "alloc": 1
+      }
+   ],
+   "54303": [
+      {
+         "county": "Brown",
+         "alloc": 1
+      }
+   ],
+   "54304": [
+      {
+         "county": "Brown",
+         "alloc": 1
+      }
+   ],
+   "54307": [
+      {
+         "county": "Brown",
+         "alloc": 1
+      }
+   ],
+   "54311": [
+      {
+         "county": "Brown",
+         "alloc": 1
+      }
+   ],
+   "54313": [
+      {
+         "county": "Brown",
+         "alloc": 0.999
+      },
+      {
+         "county": "Outagamie",
+         "alloc": 0.001
+      }
+   ],
+   "54401": [
+      {
+         "county": "Marathon",
+         "alloc": 1
+      }
+   ],
+   "54403": [
+      {
+         "county": "Marathon",
+         "alloc": 1
+      }
+   ],
+   "54405": [
+      {
+         "county": "Clark",
+         "alloc": 0.627
+      },
+      {
+         "county": "Marathon",
+         "alloc": 0.373
+      }
+   ],
+   "54406": [
+      {
+         "county": "Portage",
+         "alloc": 1
+      }
+   ],
+   "54407": [
+      {
+         "county": "Portage",
+         "alloc": 1
+      }
+   ],
+   "54408": [
+      {
+         "county": "Langlade",
+         "alloc": 0.042
+      },
+      {
+         "county": "Marathon",
+         "alloc": 0.677
+      },
+      {
+         "county": "Shawano",
+         "alloc": 0.281
+      }
+   ],
+   "54409": [
+      {
+         "county": "Langlade",
+         "alloc": 0.982
+      },
+      {
+         "county": "Marathon",
+         "alloc": 0.01
+      },
+      {
+         "county": "Shawano",
+         "alloc": 0.008
+      }
+   ],
+   "54410": [
+      {
+         "county": "Wood",
+         "alloc": 1
+      }
+   ],
+   "54411": [
+      {
+         "county": "Marathon",
+         "alloc": 0.975
+      },
+      {
+         "county": "Taylor",
+         "alloc": 0.025
+      }
+   ],
+   "54412": [
+      {
+         "county": "Marathon",
+         "alloc": 0.204
+      },
+      {
+         "county": "Wood",
+         "alloc": 0.796
+      }
+   ],
+   "54413": [
+      {
+         "county": "Wood",
+         "alloc": 1
+      }
+   ],
+   "54414": [
+      {
+         "county": "Marathon",
+         "alloc": 0.323
+      },
+      {
+         "county": "Shawano",
+         "alloc": 0.677
+      }
+   ],
+   "54416": [
+      {
+         "county": "Shawano",
+         "alloc": 1
+      }
+   ],
+   "54417": [
+      {
+         "county": "Marathon",
+         "alloc": 1
+      }
+   ],
+   "54418": [
+      {
+         "county": "Langlade",
+         "alloc": 1
+      }
+   ],
+   "54420": [
+      {
+         "county": "Clark",
+         "alloc": 0.964
+      },
+      {
+         "county": "Wood",
+         "alloc": 0.036
+      }
+   ],
+   "54421": [
+      {
+         "county": "Clark",
+         "alloc": 0.623
+      },
+      {
+         "county": "Marathon",
+         "alloc": 0.377
+      }
+   ],
+   "54422": [
+      {
+         "county": "Clark",
+         "alloc": 0.744
+      },
+      {
+         "county": "Taylor",
+         "alloc": 0.256
+      }
+   ],
+   "54423": [
+      {
+         "county": "Portage",
+         "alloc": 1
+      }
+   ],
+   "54424": [
+      {
+         "county": "Langlade",
+         "alloc": 1
+      }
+   ],
+   "54425": [
+      {
+         "county": "Clark",
+         "alloc": 0.724
+      },
+      {
+         "county": "Marathon",
+         "alloc": 0.211
+      },
+      {
+         "county": "Taylor",
+         "alloc": 0.065
+      }
+   ],
+   "54426": [
+      {
+         "county": "Marathon",
+         "alloc": 1
+      }
+   ],
+   "54427": [
+      {
+         "county": "Marathon",
+         "alloc": 0.669
+      },
+      {
+         "county": "Shawano",
+         "alloc": 0.331
+      }
+   ],
+   "54428": [
+      {
+         "county": "Langlade",
+         "alloc": 0.984
+      },
+      {
+         "county": "Oneida",
+         "alloc": 0.016
+      }
+   ],
+   "54430": [
+      {
+         "county": "Langlade",
+         "alloc": 1
+      }
+   ],
+   "54433": [
+      {
+         "county": "Chippewa",
+         "alloc": 0.108
+      },
+      {
+         "county": "Taylor",
+         "alloc": 0.892
+      }
+   ],
+   "54435": [
+      {
+         "county": "Langlade",
+         "alloc": 0.206
+      },
+      {
+         "county": "Lincoln",
+         "alloc": 0.794
+      }
+   ],
+   "54436": [
+      {
+         "county": "Clark",
+         "alloc": 1
+      }
+   ],
+   "54437": [
+      {
+         "county": "Clark",
+         "alloc": 1
+      }
+   ],
+   "54440": [
+      {
+         "county": "Marathon",
+         "alloc": 1
+      }
+   ],
+   "54441": [
+      {
+         "county": "Wood",
+         "alloc": 1
+      }
+   ],
+   "54442": [
+      {
+         "county": "Lincoln",
+         "alloc": 1
+      }
+   ],
+   "54443": [
+      {
+         "county": "Marathon",
+         "alloc": 0.012
+      },
+      {
+         "county": "Portage",
+         "alloc": 0.986
+      },
+      {
+         "county": "Wood",
+         "alloc": 0.002
+      }
+   ],
+   "54446": [
+      {
+         "county": "Clark",
+         "alloc": 1
+      }
+   ],
+   "54447": [
+      {
+         "county": "Taylor",
+         "alloc": 1
+      }
+   ],
+   "54448": [
+      {
+         "county": "Marathon",
+         "alloc": 1
+      }
+   ],
+   "54449": [
+      {
+         "county": "Clark",
+         "alloc": 0
+      },
+      {
+         "county": "Marathon",
+         "alloc": 0.136
+      },
+      {
+         "county": "Wood",
+         "alloc": 0.864
+      }
+   ],
+   "54450": [
+      {
+         "county": "Shawano",
+         "alloc": 1
+      }
+   ],
+   "54451": [
+      {
+         "county": "Marathon",
+         "alloc": 0.004
+      },
+      {
+         "county": "Taylor",
+         "alloc": 0.996
+      }
+   ],
+   "54452": [
+      {
+         "county": "Lincoln",
+         "alloc": 0.922
+      },
+      {
+         "county": "Marathon",
+         "alloc": 0.078
+      }
+   ],
+   "54454": [
+      {
+         "county": "Portage",
+         "alloc": 0.014
+      },
+      {
+         "county": "Wood",
+         "alloc": 0.986
+      }
+   ],
+   "54455": [
+      {
+         "county": "Marathon",
+         "alloc": 0.978
+      },
+      {
+         "county": "Portage",
+         "alloc": 0.022
+      }
+   ],
+   "54456": [
+      {
+         "county": "Clark",
+         "alloc": 1
+      }
+   ],
+   "54457": [
+      {
+         "county": "Adams",
+         "alloc": 0.326
+      },
+      {
+         "county": "Juneau",
+         "alloc": 0.036
+      },
+      {
+         "county": "Wood",
+         "alloc": 0.638
+      }
+   ],
+   "54458": [
+      {
+         "county": "Portage",
+         "alloc": 1
+      }
+   ],
+   "54459": [
+      {
+         "county": "Price",
+         "alloc": 1
+      }
+   ],
+   "54460": [
+      {
+         "county": "Clark",
+         "alloc": 0.919
+      },
+      {
+         "county": "Taylor",
+         "alloc": 0.081
+      }
+   ],
+   "54462": [
+      {
+         "county": "Langlade",
+         "alloc": 1
+      }
+   ],
+   "54463": [
+      {
+         "county": "Oneida",
+         "alloc": 1
+      }
+   ],
+   "54465": [
+      {
+         "county": "Forest",
+         "alloc": 0.451
+      },
+      {
+         "county": "Langlade",
+         "alloc": 0.549
+      }
+   ],
+   "54466": [
+      {
+         "county": "Clark",
+         "alloc": 0.038
+      },
+      {
+         "county": "Jackson",
+         "alloc": 0.068
+      },
+      {
+         "county": "Wood",
+         "alloc": 0.894
+      }
+   ],
+   "54467": [
+      {
+         "county": "Portage",
+         "alloc": 1
+      }
+   ],
+   "54469": [
+      {
+         "county": "Wood",
+         "alloc": 1
+      }
+   ],
+   "54470": [
+      {
+         "county": "Price",
+         "alloc": 0.008
+      },
+      {
+         "county": "Taylor",
+         "alloc": 0.992
+      }
+   ],
+   "54471": [
+      {
+         "county": "Marathon",
+         "alloc": 1
+      }
+   ],
+   "54473": [
+      {
+         "county": "Marathon",
+         "alloc": 0.226
+      },
+      {
+         "county": "Portage",
+         "alloc": 0.774
+      }
+   ],
+   "54474": [
+      {
+         "county": "Marathon",
+         "alloc": 1
+      }
+   ],
+   "54475": [
+      {
+         "county": "Portage",
+         "alloc": 0.09
+      },
+      {
+         "county": "Wood",
+         "alloc": 0.91
+      }
+   ],
+   "54476": [
+      {
+         "county": "Marathon",
+         "alloc": 1
+      }
+   ],
+   "54479": [
+      {
+         "county": "Clark",
+         "alloc": 0.268
+      },
+      {
+         "county": "Marathon",
+         "alloc": 0.732
+      }
+   ],
+   "54480": [
+      {
+         "county": "Marathon",
+         "alloc": 0.029
+      },
+      {
+         "county": "Taylor",
+         "alloc": 0.971
+      }
+   ],
+   "54481": [
+      {
+         "county": "Portage",
+         "alloc": 1
+      }
+   ],
+   "54482": [
+      {
+         "county": "Portage",
+         "alloc": 1
+      }
+   ],
+   "54484": [
+      {
+         "county": "Marathon",
+         "alloc": 1
+      }
+   ],
+   "54485": [
+      {
+         "county": "Langlade",
+         "alloc": 1
+      }
+   ],
+   "54486": [
+      {
+         "county": "Shawano",
+         "alloc": 0.917
+      },
+      {
+         "county": "Waupaca",
+         "alloc": 0.083
+      }
+   ],
+   "54487": [
+      {
+         "county": "Lincoln",
+         "alloc": 0.815
+      },
+      {
+         "county": "Oneida",
+         "alloc": 0.185
+      }
+   ],
+   "54488": [
+      {
+         "county": "Clark",
+         "alloc": 0.555
+      },
+      {
+         "county": "Marathon",
+         "alloc": 0.445
+      }
+   ],
+   "54489": [
+      {
+         "county": "Wood",
+         "alloc": 1
+      }
+   ],
+   "54490": [
+      {
+         "county": "Price",
+         "alloc": 0.021
+      },
+      {
+         "county": "Taylor",
+         "alloc": 0.979
+      }
+   ],
+   "54491": [
+      {
+         "county": "Langlade",
+         "alloc": 0.956
+      },
+      {
+         "county": "Oconto",
+         "alloc": 0.044
+      }
+   ],
+   "54493": [
+      {
+         "county": "Clark",
+         "alloc": 1
+      }
+   ],
+   "54494": [
+      {
+         "county": "Adams",
+         "alloc": 0.001
+      },
+      {
+         "county": "Portage",
+         "alloc": 0.071
+      },
+      {
+         "county": "Wood",
+         "alloc": 0.928
+      }
+   ],
+   "54495": [
+      {
+         "county": "Wood",
+         "alloc": 1
+      }
+   ],
+   "54498": [
+      {
+         "county": "Clark",
+         "alloc": 0.762
+      },
+      {
+         "county": "Taylor",
+         "alloc": 0.238
+      }
+   ],
+   "54499": [
+      {
+         "county": "Marathon",
+         "alloc": 0.187
+      },
+      {
+         "county": "Portage",
+         "alloc": 0.006
+      },
+      {
+         "county": "Shawano",
+         "alloc": 0.807
+      }
+   ],
+   "54501": [
+      {
+         "county": "Lincoln",
+         "alloc": 0.006
+      },
+      {
+         "county": "Oneida",
+         "alloc": 0.994
+      }
+   ],
+   "54511": [
+      {
+         "county": "Forest",
+         "alloc": 1
+      }
+   ],
+   "54512": [
+      {
+         "county": "Vilas",
+         "alloc": 1
+      }
+   ],
+   "54513": [
+      {
+         "county": "Price",
+         "alloc": 1
+      }
+   ],
+   "54514": [
+      {
+         "county": "Ashland",
+         "alloc": 0.733
+      },
+      {
+         "county": "Iron",
+         "alloc": 0.038
+      },
+      {
+         "county": "Price",
+         "alloc": 0.229
+      }
+   ],
+   "54515": [
+      {
+         "county": "Price",
+         "alloc": 1
+      }
+   ],
+   "54517": [
+      {
+         "county": "Ashland",
+         "alloc": 0.786
+      },
+      {
+         "county": "Bayfield",
+         "alloc": 0.063
+      },
+      {
+         "county": "Sawyer",
+         "alloc": 0.152
+      }
+   ],
+   "54519": [
+      {
+         "county": "Vilas",
+         "alloc": 1
+      }
+   ],
+   "54520": [
+      {
+         "county": "Forest",
+         "alloc": 1
+      }
+   ],
+   "54521": [
+      {
+         "county": "Forest",
+         "alloc": 0.005
+      },
+      {
+         "county": "Oneida",
+         "alloc": 0.152
+      },
+      {
+         "county": "Vilas",
+         "alloc": 0.843
+      }
+   ],
+   "54524": [
+      {
+         "county": "Price",
+         "alloc": 1
+      }
+   ],
+   "54525": [
+      {
+         "county": "Iron",
+         "alloc": 1
+      }
+   ],
+   "54526": [
+      {
+         "county": "Rusk",
+         "alloc": 1
+      }
+   ],
+   "54527": [
+      {
+         "county": "Ashland",
+         "alloc": 1
+      }
+   ],
+   "54529": [
+      {
+         "county": "Oneida",
+         "alloc": 1
+      }
+   ],
+   "54530": [
+      {
+         "county": "Price",
+         "alloc": 0.101
+      },
+      {
+         "county": "Rusk",
+         "alloc": 0.786
+      },
+      {
+         "county": "Sawyer",
+         "alloc": 0.113
+      }
+   ],
+   "54531": [
+      {
+         "county": "Oneida",
+         "alloc": 1
+      }
+   ],
+   "54534": [
+      {
+         "county": "Iron",
+         "alloc": 1
+      }
+   ],
+   "54536": [
+      {
+         "county": "Iron",
+         "alloc": 1
+      }
+   ],
+   "54537": [
+      {
+         "county": "Price",
+         "alloc": 1
+      }
+   ],
+   "54538": [
+      {
+         "county": "Iron",
+         "alloc": 0.002
+      },
+      {
+         "county": "Oneida",
+         "alloc": 0.024
+      },
+      {
+         "county": "Price",
+         "alloc": 0.005
+      },
+      {
+         "county": "Vilas",
+         "alloc": 0.969
+      }
+   ],
+   "54539": [
+      {
+         "county": "Oneida",
+         "alloc": 1
+      }
+   ],
+   "54540": [
+      {
+         "county": "Vilas",
+         "alloc": 1
+      }
+   ],
+   "54541": [
+      {
+         "county": "Forest",
+         "alloc": 1
+      }
+   ],
+   "54542": [
+      {
+         "county": "Florence",
+         "alloc": 0.64
+      },
+      {
+         "county": "Forest",
+         "alloc": 0.36
+      }
+   ],
+   "54545": [
+      {
+         "county": "Iron",
+         "alloc": 0.027
+      },
+      {
+         "county": "Vilas",
+         "alloc": 0.973
+      }
+   ],
+   "54546": [
+      {
+         "county": "Ashland",
+         "alloc": 1
+      }
+   ],
+   "54547": [
+      {
+         "county": "Iron",
+         "alloc": 1
+      }
+   ],
+   "54548": [
+      {
+         "county": "Oneida",
+         "alloc": 0.918
+      },
+      {
+         "county": "Vilas",
+         "alloc": 0.082
+      }
+   ],
+   "54550": [
+      {
+         "county": "Iron",
+         "alloc": 1
+      }
+   ],
+   "54552": [
+      {
+         "county": "Iron",
+         "alloc": 0.063
+      },
+      {
+         "county": "Price",
+         "alloc": 0.935
+      },
+      {
+         "county": "Sawyer",
+         "alloc": 0.002
+      }
+   ],
+   "54554": [
+      {
+         "county": "Vilas",
+         "alloc": 1
+      }
+   ],
+   "54555": [
+      {
+         "county": "Price",
+         "alloc": 1
+      }
+   ],
+   "54556": [
+      {
+         "county": "Price",
+         "alloc": 1
+      }
+   ],
+   "54557": [
+      {
+         "county": "Vilas",
+         "alloc": 1
+      }
+   ],
+   "54558": [
+      {
+         "county": "Oneida",
+         "alloc": 0.107
+      },
+      {
+         "county": "Vilas",
+         "alloc": 0.893
+      }
+   ],
+   "54559": [
+      {
+         "county": "Ashland",
+         "alloc": 0.387
+      },
+      {
+         "county": "Iron",
+         "alloc": 0.613
+      }
+   ],
+   "54560": [
+      {
+         "county": "Vilas",
+         "alloc": 1
+      }
+   ],
+   "54561": [
+      {
+         "county": "Vilas",
+         "alloc": 1
+      }
+   ],
+   "54562": [
+      {
+         "county": "Forest",
+         "alloc": 0.017
+      },
+      {
+         "county": "Oneida",
+         "alloc": 0.983
+      }
+   ],
+   "54563": [
+      {
+         "county": "Rusk",
+         "alloc": 1
+      }
+   ],
+   "54564": [
+      {
+         "county": "Lincoln",
+         "alloc": 0.442
+      },
+      {
+         "county": "Oneida",
+         "alloc": 0.558
+      }
+   ],
+   "54565": [
+      {
+         "county": "Iron",
+         "alloc": 1
+      }
+   ],
+   "54566": [
+      {
+         "county": "Forest",
+         "alloc": 1
+      }
+   ],
+   "54568": [
+      {
+         "county": "Oneida",
+         "alloc": 0.353
+      },
+      {
+         "county": "Vilas",
+         "alloc": 0.647
+      }
+   ],
+   "54601": [
+      {
+         "county": "La Crosse",
+         "alloc": 1
+      }
+   ],
+   "54603": [
+      {
+         "county": "La Crosse",
+         "alloc": 1
+      }
+   ],
+   "54610": [
+      {
+         "county": "Buffalo",
+         "alloc": 1
+      }
+   ],
+   "54611": [
+      {
+         "county": "Jackson",
+         "alloc": 1
+      }
+   ],
+   "54612": [
+      {
+         "county": "Buffalo",
+         "alloc": 0.095
+      },
+      {
+         "county": "Trempealeau",
+         "alloc": 0.905
+      }
+   ],
+   "54613": [
+      {
+         "county": "Adams",
+         "alloc": 1
+      }
+   ],
+   "54614": [
+      {
+         "county": "La Crosse",
+         "alloc": 1
+      }
+   ],
+   "54615": [
+      {
+         "county": "Jackson",
+         "alloc": 0.998
+      },
+      {
+         "county": "Monroe",
+         "alloc": 0.002
+      }
+   ],
+   "54616": [
+      {
+         "county": "Jackson",
+         "alloc": 0.01
+      },
+      {
+         "county": "Trempealeau",
+         "alloc": 0.99
+      }
+   ],
+   "54618": [
+      {
+         "county": "Juneau",
+         "alloc": 0.655
+      },
+      {
+         "county": "Monroe",
+         "alloc": 0.345
+      }
+   ],
+   "54619": [
+      {
+         "county": "La Crosse",
+         "alloc": 0.005
+      },
+      {
+         "county": "Monroe",
+         "alloc": 0.757
+      },
+      {
+         "county": "Vernon",
+         "alloc": 0.238
+      }
+   ],
+   "54621": [
+      {
+         "county": "Vernon",
+         "alloc": 1
+      }
+   ],
+   "54622": [
+      {
+         "county": "Buffalo",
+         "alloc": 1
+      }
+   ],
+   "54623": [
+      {
+         "county": "La Crosse",
+         "alloc": 0.305
+      },
+      {
+         "county": "Vernon",
+         "alloc": 0.695
+      }
+   ],
+   "54624": [
+      {
+         "county": "Crawford",
+         "alloc": 0.142
+      },
+      {
+         "county": "Vernon",
+         "alloc": 0.858
+      }
+   ],
+   "54625": [
+      {
+         "county": "Trempealeau",
+         "alloc": 1
+      }
+   ],
+   "54626": [
+      {
+         "county": "Crawford",
+         "alloc": 1
+      }
+   ],
+   "54627": [
+      {
+         "county": "Jackson",
+         "alloc": 0.041
+      },
+      {
+         "county": "Trempealeau",
+         "alloc": 0.959
+      }
+   ],
+   "54628": [
+      {
+         "county": "Crawford",
+         "alloc": 0.94
+      },
+      {
+         "county": "Vernon",
+         "alloc": 0.06
+      }
+   ],
+   "54629": [
+      {
+         "county": "Buffalo",
+         "alloc": 1
+      }
+   ],
+   "54630": [
+      {
+         "county": "Trempealeau",
+         "alloc": 1
+      }
+   ],
+   "54631": [
+      {
+         "county": "Crawford",
+         "alloc": 1
+      }
+   ],
+   "54632": [
+      {
+         "county": "Vernon",
+         "alloc": 1
+      }
+   ],
+   "54634": [
+      {
+         "county": "Juneau",
+         "alloc": 0.001
+      },
+      {
+         "county": "Richland",
+         "alloc": 0.146
+      },
+      {
+         "county": "Vernon",
+         "alloc": 0.853
+      }
+   ],
+   "54635": [
+      {
+         "county": "Jackson",
+         "alloc": 1
+      }
+   ],
+   "54636": [
+      {
+         "county": "La Crosse",
+         "alloc": 1
+      }
+   ],
+   "54637": [
+      {
+         "county": "Juneau",
+         "alloc": 1
+      }
+   ],
+   "54638": [
+      {
+         "county": "Juneau",
+         "alloc": 0.019
+      },
+      {
+         "county": "Monroe",
+         "alloc": 0.924
+      },
+      {
+         "county": "Vernon",
+         "alloc": 0.057
+      }
+   ],
+   "54639": [
+      {
+         "county": "Richland",
+         "alloc": 0.032
+      },
+      {
+         "county": "Vernon",
+         "alloc": 0.968
+      }
+   ],
+   "54641": [
+      {
+         "county": "Jackson",
+         "alloc": 1
+      }
+   ],
+   "54642": [
+      {
+         "county": "Jackson",
+         "alloc": 0.884
+      },
+      {
+         "county": "La Crosse",
+         "alloc": 0.075
+      },
+      {
+         "county": "Trempealeau",
+         "alloc": 0.041
+      }
+   ],
+   "54643": [
+      {
+         "county": "Jackson",
+         "alloc": 1
+      }
+   ],
+   "54644": [
+      {
+         "county": "Jackson",
+         "alloc": 0.017
+      },
+      {
+         "county": "La Crosse",
+         "alloc": 0.983
+      }
+   ],
+   "54645": [
+      {
+         "county": "Crawford",
+         "alloc": 1
+      }
+   ],
+   "54646": [
+      {
+         "county": "Juneau",
+         "alloc": 1
+      }
+   ],
+   "54648": [
+      {
+         "county": "Monroe",
+         "alloc": 1
+      }
+   ],
+   "54650": [
+      {
+         "county": "La Crosse",
+         "alloc": 1
+      }
+   ],
+   "54651": [
+      {
+         "county": "Monroe",
+         "alloc": 0.312
+      },
+      {
+         "county": "Vernon",
+         "alloc": 0.688
+      }
+   ],
+   "54652": [
+      {
+         "county": "Vernon",
+         "alloc": 1
+      }
+   ],
+   "54653": [
+      {
+         "county": "La Crosse",
+         "alloc": 0.852
+      },
+      {
+         "county": "Monroe",
+         "alloc": 0.148
+      }
+   ],
+   "54654": [
+      {
+         "county": "Crawford",
+         "alloc": 1
+      }
+   ],
+   "54655": [
+      {
+         "county": "Crawford",
+         "alloc": 0.879
+      },
+      {
+         "county": "Richland",
+         "alloc": 0.08
+      },
+      {
+         "county": "Vernon",
+         "alloc": 0.041
+      }
+   ],
+   "54656": [
+      {
+         "county": "La Crosse",
+         "alloc": 0
+      },
+      {
+         "county": "Monroe",
+         "alloc": 1
+      }
+   ],
+   "54657": [
+      {
+         "county": "Crawford",
+         "alloc": 1
+      }
+   ],
+   "54658": [
+      {
+         "county": "La Crosse",
+         "alloc": 0.156
+      },
+      {
+         "county": "Vernon",
+         "alloc": 0.844
+      }
+   ],
+   "54659": [
+      {
+         "county": "Jackson",
+         "alloc": 0.978
+      },
+      {
+         "county": "Trempealeau",
+         "alloc": 0.022
+      }
+   ],
+   "54660": [
+      {
+         "county": "Monroe",
+         "alloc": 1
+      }
+   ],
+   "54661": [
+      {
+         "county": "La Crosse",
+         "alloc": 0
+      },
+      {
+         "county": "Trempealeau",
+         "alloc": 1
+      }
+   ],
+   "54664": [
+      {
+         "county": "Richland",
+         "alloc": 0.68
+      },
+      {
+         "county": "Vernon",
+         "alloc": 0.32
+      }
+   ],
+   "54665": [
+      {
+         "county": "Vernon",
+         "alloc": 1
+      }
+   ],
+   "54666": [
+      {
+         "county": "Jackson",
+         "alloc": 0.166
+      },
+      {
+         "county": "Juneau",
+         "alloc": 0.038
+      },
+      {
+         "county": "Monroe",
+         "alloc": 0.796
+      }
+   ],
+   "54667": [
+      {
+         "county": "La Crosse",
+         "alloc": 0.007
+      },
+      {
+         "county": "Vernon",
+         "alloc": 0.993
+      }
+   ],
+   "54669": [
+      {
+         "county": "La Crosse",
+         "alloc": 1
+      }
+   ],
+   "54670": [
+      {
+         "county": "Monroe",
+         "alloc": 1
+      }
+   ],
+   "54701": [
+      {
+         "county": "Dunn",
+         "alloc": 0.003
+      },
+      {
+         "county": "Eau Claire",
+         "alloc": 0.997
+      }
+   ],
+   "54703": [
+      {
+         "county": "Chippewa",
+         "alloc": 0.069
+      },
+      {
+         "county": "Dunn",
+         "alloc": 0.005
+      },
+      {
+         "county": "Eau Claire",
+         "alloc": 0.926
+      }
+   ],
+   "54720": [
+      {
+         "county": "Eau Claire",
+         "alloc": 1
+      }
+   ],
+   "54721": [
+      {
+         "county": "Dunn",
+         "alloc": 0.058
+      },
+      {
+         "county": "Pepin",
+         "alloc": 0.942
+      }
+   ],
+   "54722": [
+      {
+         "county": "Eau Claire",
+         "alloc": 1
+      }
+   ],
+   "54723": [
+      {
+         "county": "Pierce",
+         "alloc": 1
+      }
+   ],
+   "54724": [
+      {
+         "county": "Chippewa",
+         "alloc": 0.999
+      },
+      {
+         "county": "Dunn",
+         "alloc": 0.001
+      }
+   ],
+   "54725": [
+      {
+         "county": "Dunn",
+         "alloc": 1
+      }
+   ],
+   "54726": [
+      {
+         "county": "Chippewa",
+         "alloc": 0.868
+      },
+      {
+         "county": "Eau Claire",
+         "alloc": 0.132
+      }
+   ],
+   "54727": [
+      {
+         "county": "Chippewa",
+         "alloc": 0.963
+      },
+      {
+         "county": "Eau Claire",
+         "alloc": 0.037
+      }
+   ],
+   "54728": [
+      {
+         "county": "Barron",
+         "alloc": 0.93
+      },
+      {
+         "county": "Rusk",
+         "alloc": 0.07
+      }
+   ],
+   "54729": [
+      {
+         "county": "Chippewa",
+         "alloc": 0.993
+      },
+      {
+         "county": "Eau Claire",
+         "alloc": 0.007
+      }
+   ],
+   "54730": [
+      {
+         "county": "Chippewa",
+         "alloc": 0.121
+      },
+      {
+         "county": "Dunn",
+         "alloc": 0.879
+      }
+   ],
+   "54731": [
+      {
+         "county": "Rusk",
+         "alloc": 1
+      }
+   ],
+   "54732": [
+      {
+         "county": "Chippewa",
+         "alloc": 1
+      }
+   ],
+   "54733": [
+      {
+         "county": "Barron",
+         "alloc": 1
+      }
+   ],
+   "54734": [
+      {
+         "county": "Dunn",
+         "alloc": 0.949
+      },
+      {
+         "county": "St. Croix",
+         "alloc": 0.051
+      }
+   ],
+   "54736": [
+      {
+         "county": "Buffalo",
+         "alloc": 0.124
+      },
+      {
+         "county": "Dunn",
+         "alloc": 0.008
+      },
+      {
+         "county": "Pepin",
+         "alloc": 0.868
+      }
+   ],
+   "54737": [
+      {
+         "county": "Dunn",
+         "alloc": 0.928
+      },
+      {
+         "county": "Pepin",
+         "alloc": 0.072
+      }
+   ],
+   "54738": [
+      {
+         "county": "Eau Claire",
+         "alloc": 0.573
+      },
+      {
+         "county": "Trempealeau",
+         "alloc": 0.427
+      }
+   ],
+   "54739": [
+      {
+         "county": "Chippewa",
+         "alloc": 0.221
+      },
+      {
+         "county": "Dunn",
+         "alloc": 0.773
+      },
+      {
+         "county": "Eau Claire",
+         "alloc": 0.006
+      }
+   ],
+   "54740": [
+      {
+         "county": "Dunn",
+         "alloc": 0.242
+      },
+      {
+         "county": "Pierce",
+         "alloc": 0.758
+      }
+   ],
+   "54741": [
+      {
+         "county": "Clark",
+         "alloc": 0.01
+      },
+      {
+         "county": "Eau Claire",
+         "alloc": 0.675
+      },
+      {
+         "county": "Jackson",
+         "alloc": 0.315
+      }
+   ],
+   "54742": [
+      {
+         "county": "Eau Claire",
+         "alloc": 1
+      }
+   ],
+   "54745": [
+      {
+         "county": "Chippewa",
+         "alloc": 0.868
+      },
+      {
+         "county": "Rusk",
+         "alloc": 0.132
+      }
+   ],
+   "54746": [
+      {
+         "county": "Clark",
+         "alloc": 0.788
+      },
+      {
+         "county": "Jackson",
+         "alloc": 0.212
+      }
+   ],
+   "54747": [
+      {
+         "county": "Buffalo",
+         "alloc": 0.116
+      },
+      {
+         "county": "Trempealeau",
+         "alloc": 0.884
+      }
+   ],
+   "54748": [
+      {
+         "county": "Chippewa",
+         "alloc": 1
+      }
+   ],
+   "54749": [
+      {
+         "county": "Dunn",
+         "alloc": 0.886
+      },
+      {
+         "county": "St. Croix",
+         "alloc": 0.114
+      }
+   ],
+   "54750": [
+      {
+         "county": "Pierce",
+         "alloc": 1
+      }
+   ],
+   "54751": [
+      {
+         "county": "Dunn",
+         "alloc": 1
+      }
+   ],
+   "54754": [
+      {
+         "county": "Clark",
+         "alloc": 0.159
+      },
+      {
+         "county": "Jackson",
+         "alloc": 0.841
+      }
+   ],
+   "54755": [
+      {
+         "county": "Buffalo",
+         "alloc": 0.674
+      },
+      {
+         "county": "Dunn",
+         "alloc": 0.144
+      },
+      {
+         "county": "Eau Claire",
+         "alloc": 0.099
+      },
+      {
+         "county": "Pepin",
+         "alloc": 0.084
+      }
+   ],
+   "54756": [
+      {
+         "county": "Buffalo",
+         "alloc": 1
+      }
+   ],
+   "54757": [
+      {
+         "county": "Barron",
+         "alloc": 0.249
+      },
+      {
+         "county": "Chippewa",
+         "alloc": 0.565
+      },
+      {
+         "county": "Dunn",
+         "alloc": 0.127
+      },
+      {
+         "county": "Rusk",
+         "alloc": 0.059
+      }
+   ],
+   "54758": [
+      {
+         "county": "Eau Claire",
+         "alloc": 0.144
+      },
+      {
+         "county": "Jackson",
+         "alloc": 0.14
+      },
+      {
+         "county": "Trempealeau",
+         "alloc": 0.716
+      }
+   ],
+   "54759": [
+      {
+         "county": "Pepin",
+         "alloc": 1
+      }
+   ],
+   "54760": [
+      {
+         "county": "Trempealeau",
+         "alloc": 1
+      }
+   ],
+   "54761": [
+      {
+         "county": "Pierce",
+         "alloc": 1
+      }
+   ],
+   "54762": [
+      {
+         "county": "Barron",
+         "alloc": 0.919
+      },
+      {
+         "county": "Dunn",
+         "alloc": 0.081
+      }
+   ],
+   "54763": [
+      {
+         "county": "Barron",
+         "alloc": 0.134
+      },
+      {
+         "county": "Dunn",
+         "alloc": 0.866
+      }
+   ],
+   "54765": [
+      {
+         "county": "Dunn",
+         "alloc": 1
+      }
+   ],
+   "54766": [
+      {
+         "county": "Chippewa",
+         "alloc": 0.068
+      },
+      {
+         "county": "Rusk",
+         "alloc": 0.489
+      },
+      {
+         "county": "Taylor",
+         "alloc": 0.443
+      }
+   ],
+   "54767": [
+      {
+         "county": "Dunn",
+         "alloc": 0.006
+      },
+      {
+         "county": "Pierce",
+         "alloc": 0.936
+      },
+      {
+         "county": "St. Croix",
+         "alloc": 0.059
+      }
+   ],
+   "54768": [
+      {
+         "county": "Chippewa",
+         "alloc": 0.814
+      },
+      {
+         "county": "Clark",
+         "alloc": 0.132
+      },
+      {
+         "county": "Eau Claire",
+         "alloc": 0.035
+      },
+      {
+         "county": "Taylor",
+         "alloc": 0.019
+      }
+   ],
+   "54769": [
+      {
+         "county": "Pepin",
+         "alloc": 0.791
+      },
+      {
+         "county": "Pierce",
+         "alloc": 0.209
+      }
+   ],
+   "54770": [
+      {
+         "county": "Eau Claire",
+         "alloc": 0.142
+      },
+      {
+         "county": "Trempealeau",
+         "alloc": 0.858
+      }
+   ],
+   "54771": [
+      {
+         "county": "Clark",
+         "alloc": 0.914
+      },
+      {
+         "county": "Taylor",
+         "alloc": 0.086
+      }
+   ],
+   "54772": [
+      {
+         "county": "Dunn",
+         "alloc": 1
+      }
+   ],
+   "54773": [
+      {
+         "county": "Trempealeau",
+         "alloc": 1
+      }
+   ],
+   "54801": [
+      {
+         "county": "Burnett",
+         "alloc": 0.094
+      },
+      {
+         "county": "Washburn",
+         "alloc": 0.906
+      }
+   ],
+   "54805": [
+      {
+         "county": "Barron",
+         "alloc": 1
+      }
+   ],
+   "54806": [
+      {
+         "county": "Ashland",
+         "alloc": 0.878
+      },
+      {
+         "county": "Bayfield",
+         "alloc": 0.122
+      }
+   ],
+   "54810": [
+      {
+         "county": "Polk",
+         "alloc": 1
+      }
+   ],
+   "54812": [
+      {
+         "county": "Barron",
+         "alloc": 1
+      }
+   ],
+   "54813": [
+      {
+         "county": "Barron",
+         "alloc": 0.604
+      },
+      {
+         "county": "Burnett",
+         "alloc": 0.236
+      },
+      {
+         "county": "Washburn",
+         "alloc": 0.16
+      }
+   ],
+   "54814": [
+      {
+         "county": "Bayfield",
+         "alloc": 1
+      }
+   ],
+   "54817": [
+      {
+         "county": "Barron",
+         "alloc": 0.277
+      },
+      {
+         "county": "Rusk",
+         "alloc": 0.046
+      },
+      {
+         "county": "Sawyer",
+         "alloc": 0.237
+      },
+      {
+         "county": "Washburn",
+         "alloc": 0.44
+      }
+   ],
+   "54819": [
+      {
+         "county": "Rusk",
+         "alloc": 1
+      }
+   ],
+   "54820": [
+      {
+         "county": "Bayfield",
+         "alloc": 0.307
+      },
+      {
+         "county": "Douglas",
+         "alloc": 0.693
+      }
+   ],
+   "54821": [
+      {
+         "county": "Bayfield",
+         "alloc": 0.976
+      },
+      {
+         "county": "Sawyer",
+         "alloc": 0.024
+      }
+   ],
+   "54822": [
+      {
+         "county": "Barron",
+         "alloc": 1
+      }
+   ],
+   "54824": [
+      {
+         "county": "Polk",
+         "alloc": 1
+      }
+   ],
+   "54826": [
+      {
+         "county": "Barron",
+         "alloc": 0.565
+      },
+      {
+         "county": "Polk",
+         "alloc": 0.435
+      }
+   ],
+   "54827": [
+      {
+         "county": "Bayfield",
+         "alloc": 1
+      }
+   ],
+   "54828": [
+      {
+         "county": "Sawyer",
+         "alloc": 1
+      }
+   ],
+   "54829": [
+      {
+         "county": "Barron",
+         "alloc": 0.938
+      },
+      {
+         "county": "Polk",
+         "alloc": 0.062
+      }
+   ],
+   "54830": [
+      {
+         "county": "Burnett",
+         "alloc": 0.932
+      },
+      {
+         "county": "Douglas",
+         "alloc": 0.067
+      },
+      {
+         "county": "Washburn",
+         "alloc": 0.001
+      }
+   ],
+   "54832": [
+      {
+         "county": "Bayfield",
+         "alloc": 1
+      }
+   ],
+   "54835": [
+      {
+         "county": "Rusk",
+         "alloc": 0.126
+      },
+      {
+         "county": "Sawyer",
+         "alloc": 0.874
+      }
+   ],
+   "54836": [
+      {
+         "county": "Douglas",
+         "alloc": 1
+      }
+   ],
+   "54837": [
+      {
+         "county": "Burnett",
+         "alloc": 0.117
+      },
+      {
+         "county": "Polk",
+         "alloc": 0.883
+      }
+   ],
+   "54838": [
+      {
+         "county": "Douglas",
+         "alloc": 1
+      }
+   ],
+   "54839": [
+      {
+         "county": "Bayfield",
+         "alloc": 1
+      }
+   ],
+   "54840": [
+      {
+         "county": "Burnett",
+         "alloc": 0.989
+      },
+      {
+         "county": "Polk",
+         "alloc": 0.011
+      }
+   ],
+   "54841": [
+      {
+         "county": "Barron",
+         "alloc": 1
+      }
+   ],
+   "54842": [
+      {
+         "county": "Douglas",
+         "alloc": 1
+      }
+   ],
+   "54843": [
+      {
+         "county": "Sawyer",
+         "alloc": 0.964
+      },
+      {
+         "county": "Washburn",
+         "alloc": 0.036
+      }
+   ],
+   "54844": [
+      {
+         "county": "Bayfield",
+         "alloc": 1
+      }
+   ],
+   "54845": [
+      {
+         "county": "Burnett",
+         "alloc": 1
+      }
+   ],
+   "54846": [
+      {
+         "county": "Ashland",
+         "alloc": 1
+      }
+   ],
+   "54847": [
+      {
+         "county": "Bayfield",
+         "alloc": 1
+      }
+   ],
+   "54848": [
+      {
+         "county": "Rusk",
+         "alloc": 1
+      }
+   ],
+   "54849": [
+      {
+         "county": "Douglas",
+         "alloc": 1
+      }
+   ],
+   "54850": [
+      {
+         "county": "Ashland",
+         "alloc": 1
+      }
+   ],
+   "54853": [
+      {
+         "county": "Burnett",
+         "alloc": 0.025
+      },
+      {
+         "county": "Polk",
+         "alloc": 0.975
+      }
+   ],
+   "54854": [
+      {
+         "county": "Douglas",
+         "alloc": 1
+      }
+   ],
+   "54855": [
+      {
+         "county": "Ashland",
+         "alloc": 1
+      }
+   ],
+   "54856": [
+      {
+         "county": "Ashland",
+         "alloc": 0.035
+      },
+      {
+         "county": "Bayfield",
+         "alloc": 0.965
+      }
+   ],
+   "54857": [
+      {
+         "county": "Barron",
+         "alloc": 1
+      }
+   ],
+   "54858": [
+      {
+         "county": "Polk",
+         "alloc": 1
+      }
+   ],
+   "54859": [
+      {
+         "county": "Douglas",
+         "alloc": 0.145
+      },
+      {
+         "county": "Washburn",
+         "alloc": 0.855
+      }
+   ],
+   "54861": [
+      {
+         "county": "Ashland",
+         "alloc": 1
+      }
+   ],
+   "54862": [
+      {
+         "county": "Sawyer",
+         "alloc": 1
+      }
+   ],
+   "54864": [
+      {
+         "county": "Douglas",
+         "alloc": 1
+      }
+   ],
+   "54865": [
+      {
+         "county": "Bayfield",
+         "alloc": 1
+      }
+   ],
+   "54867": [
+      {
+         "county": "Sawyer",
+         "alloc": 1
+      }
+   ],
+   "54868": [
+      {
+         "county": "Barron",
+         "alloc": 0.995
+      },
+      {
+         "county": "Rusk",
+         "alloc": 0.003
+      },
+      {
+         "county": "Washburn",
+         "alloc": 0.002
+      }
+   ],
+   "54870": [
+      {
+         "county": "Barron",
+         "alloc": 0.024
+      },
+      {
+         "county": "Washburn",
+         "alloc": 0.976
+      }
+   ],
+   "54871": [
+      {
+         "county": "Burnett",
+         "alloc": 0.171
+      },
+      {
+         "county": "Washburn",
+         "alloc": 0.829
+      }
+   ],
+   "54872": [
+      {
+         "county": "Burnett",
+         "alloc": 0.992
+      },
+      {
+         "county": "Polk",
+         "alloc": 0.008
+      }
+   ],
+   "54873": [
+      {
+         "county": "Bayfield",
+         "alloc": 0.272
+      },
+      {
+         "county": "Douglas",
+         "alloc": 0.728
+      }
+   ],
+   "54874": [
+      {
+         "county": "Douglas",
+         "alloc": 1
+      }
+   ],
+   "54875": [
+      {
+         "county": "Washburn",
+         "alloc": 1
+      }
+   ],
+   "54876": [
+      {
+         "county": "Sawyer",
+         "alloc": 0.688
+      },
+      {
+         "county": "Washburn",
+         "alloc": 0.312
+      }
+   ],
+   "54880": [
+      {
+         "county": "Douglas",
+         "alloc": 1
+      }
+   ],
+   "54888": [
+      {
+         "county": "Washburn",
+         "alloc": 1
+      }
+   ],
+   "54889": [
+      {
+         "county": "Barron",
+         "alloc": 0.629
+      },
+      {
+         "county": "Polk",
+         "alloc": 0.371
+      }
+   ],
+   "54891": [
+      {
+         "county": "Bayfield",
+         "alloc": 1
+      }
+   ],
+   "54893": [
+      {
+         "county": "Burnett",
+         "alloc": 1
+      }
+   ],
+   "54895": [
+      {
+         "county": "Rusk",
+         "alloc": 1
+      }
+   ],
+   "54896": [
+      {
+         "county": "Sawyer",
+         "alloc": 1
+      }
+   ],
+   "54901": [
+      {
+         "county": "Winnebago",
+         "alloc": 1
+      }
+   ],
+   "54902": [
+      {
+         "county": "Winnebago",
+         "alloc": 1
+      }
+   ],
+   "54904": [
+      {
+         "county": "Winnebago",
+         "alloc": 1
+      }
+   ],
+   "54909": [
+      {
+         "county": "Portage",
+         "alloc": 0.912
+      },
+      {
+         "county": "Waushara",
+         "alloc": 0.088
+      }
+   ],
+   "54911": [
+      {
+         "county": "Outagamie",
+         "alloc": 1
+      }
+   ],
+   "54913": [
+      {
+         "county": "Outagamie",
+         "alloc": 1
+      }
+   ],
+   "54914": [
+      {
+         "county": "Outagamie",
+         "alloc": 0.979
+      },
+      {
+         "county": "Winnebago",
+         "alloc": 0.021
+      }
+   ],
+   "54915": [
+      {
+         "county": "Calumet",
+         "alloc": 0.449
+      },
+      {
+         "county": "Outagamie",
+         "alloc": 0.459
+      },
+      {
+         "county": "Winnebago",
+         "alloc": 0.093
+      }
+   ],
+   "54921": [
+      {
+         "county": "Adams",
+         "alloc": 0.07
+      },
+      {
+         "county": "Portage",
+         "alloc": 0.93
+      }
+   ],
+   "54922": [
+      {
+         "county": "Outagamie",
+         "alloc": 0.629
+      },
+      {
+         "county": "Waupaca",
+         "alloc": 0.371
+      }
+   ],
+   "54923": [
+      {
+         "county": "Green Lake",
+         "alloc": 0.787
+      },
+      {
+         "county": "Waushara",
+         "alloc": 0.187
+      },
+      {
+         "county": "Winnebago",
+         "alloc": 0.026
+      }
+   ],
+   "54927": [
+      {
+         "county": "Winnebago",
+         "alloc": 1
+      }
+   ],
+   "54928": [
+      {
+         "county": "Shawano",
+         "alloc": 1
+      }
+   ],
+   "54929": [
+      {
+         "county": "Outagamie",
+         "alloc": 0.005
+      },
+      {
+         "county": "Shawano",
+         "alloc": 0.155
+      },
+      {
+         "county": "Waupaca",
+         "alloc": 0.84
+      }
+   ],
+   "54930": [
+      {
+         "county": "Adams",
+         "alloc": 0.122
+      },
+      {
+         "county": "Marquette",
+         "alloc": 0.008
+      },
+      {
+         "county": "Waushara",
+         "alloc": 0.87
+      }
+   ],
+   "54931": [
+      {
+         "county": "Outagamie",
+         "alloc": 1
+      }
+   ],
+   "54932": [
+      {
+         "county": "Fond du Lac",
+         "alloc": 1
+      }
+   ],
+   "54933": [
+      {
+         "county": "Waupaca",
+         "alloc": 1
+      }
+   ],
+   "54934": [
+      {
+         "county": "Winnebago",
+         "alloc": 1
+      }
+   ],
+   "54935": [
+      {
+         "county": "Fond du Lac",
+         "alloc": 1
+      }
+   ],
+   "54937": [
+      {
+         "county": "Fond du Lac",
+         "alloc": 1
+      }
+   ],
+   "54940": [
+      {
+         "county": "Outagamie",
+         "alloc": 0.102
+      },
+      {
+         "county": "Waupaca",
+         "alloc": 0.476
+      },
+      {
+         "county": "Waushara",
+         "alloc": 0.182
+      },
+      {
+         "county": "Winnebago",
+         "alloc": 0.24
+      }
+   ],
+   "54941": [
+      {
+         "county": "Green Lake",
+         "alloc": 1
+      }
+   ],
+   "54942": [
+      {
+         "county": "Outagamie",
+         "alloc": 1
+      }
+   ],
+   "54943": [
+      {
+         "county": "Adams",
+         "alloc": 0.271
+      },
+      {
+         "county": "Waushara",
+         "alloc": 0.729
+      }
+   ],
+   "54944": [
+      {
+         "county": "Outagamie",
+         "alloc": 1
+      }
+   ],
+   "54945": [
+      {
+         "county": "Portage",
+         "alloc": 0.004
+      },
+      {
+         "county": "Waupaca",
+         "alloc": 0.996
+      }
+   ],
+   "54946": [
+      {
+         "county": "Waupaca",
+         "alloc": 1
+      }
+   ],
+   "54947": [
+      {
+         "county": "Winnebago",
+         "alloc": 1
+      }
+   ],
+   "54948": [
+      {
+         "county": "Shawano",
+         "alloc": 1
+      }
+   ],
+   "54949": [
+      {
+         "county": "Waupaca",
+         "alloc": 1
+      }
+   ],
+   "54950": [
+      {
+         "county": "Shawano",
+         "alloc": 0.248
+      },
+      {
+         "county": "Waupaca",
+         "alloc": 0.752
+      }
+   ],
+   "54952": [
+      {
+         "county": "Calumet",
+         "alloc": 0.197
+      },
+      {
+         "county": "Winnebago",
+         "alloc": 0.803
+      }
+   ],
+   "54956": [
+      {
+         "county": "Outagamie",
+         "alloc": 0.002
+      },
+      {
+         "county": "Winnebago",
+         "alloc": 0.998
+      }
+   ],
+   "54960": [
+      {
+         "county": "Green Lake",
+         "alloc": 0.052
+      },
+      {
+         "county": "Marquette",
+         "alloc": 0.572
+      },
+      {
+         "county": "Waushara",
+         "alloc": 0.375
+      }
+   ],
+   "54961": [
+      {
+         "county": "Outagamie",
+         "alloc": 0.216
+      },
+      {
+         "county": "Waupaca",
+         "alloc": 0.784
+      }
+   ],
+   "54962": [
+      {
+         "county": "Waupaca",
+         "alloc": 1
+      }
+   ],
+   "54963": [
+      {
+         "county": "Winnebago",
+         "alloc": 1
+      }
+   ],
+   "54964": [
+      {
+         "county": "Fond du Lac",
+         "alloc": 0.216
+      },
+      {
+         "county": "Winnebago",
+         "alloc": 0.784
+      }
+   ],
+   "54965": [
+      {
+         "county": "Waupaca",
+         "alloc": 0.015
+      },
+      {
+         "county": "Waushara",
+         "alloc": 0.985
+      }
+   ],
+   "54966": [
+      {
+         "county": "Adams",
+         "alloc": 0.014
+      },
+      {
+         "county": "Portage",
+         "alloc": 0.126
+      },
+      {
+         "county": "Waushara",
+         "alloc": 0.86
+      }
+   ],
+   "54967": [
+      {
+         "county": "Waushara",
+         "alloc": 1
+      }
+   ],
+   "54968": [
+      {
+         "county": "Green Lake",
+         "alloc": 0.972
+      },
+      {
+         "county": "Marquette",
+         "alloc": 0.028
+      }
+   ],
+   "54970": [
+      {
+         "county": "Waushara",
+         "alloc": 1
+      }
+   ],
+   "54971": [
+      {
+         "county": "Fond du Lac",
+         "alloc": 0.897
+      },
+      {
+         "county": "Green Lake",
+         "alloc": 0.056
+      },
+      {
+         "county": "Winnebago",
+         "alloc": 0.047
+      }
+   ],
+   "54974": [
+      {
+         "county": "Fond du Lac",
+         "alloc": 1
+      }
+   ],
+   "54977": [
+      {
+         "county": "Portage",
+         "alloc": 0.066
+      },
+      {
+         "county": "Waupaca",
+         "alloc": 0.934
+      }
+   ],
+   "54979": [
+      {
+         "county": "Fond du Lac",
+         "alloc": 0.966
+      },
+      {
+         "county": "Winnebago",
+         "alloc": 0.034
+      }
+   ],
+   "54980": [
+      {
+         "county": "Winnebago",
+         "alloc": 1
+      }
+   ],
+   "54981": [
+      {
+         "county": "Portage",
+         "alloc": 0.023
+      },
+      {
+         "county": "Waupaca",
+         "alloc": 0.963
+      },
+      {
+         "county": "Waushara",
+         "alloc": 0.015
+      }
+   ],
+   "54982": [
+      {
+         "county": "Marquette",
+         "alloc": 0.009
+      },
+      {
+         "county": "Waushara",
+         "alloc": 0.991
+      }
+   ],
+   "54983": [
+      {
+         "county": "Waupaca",
+         "alloc": 0.939
+      },
+      {
+         "county": "Waushara",
+         "alloc": 0.061
+      }
+   ],
+   "54984": [
+      {
+         "county": "Portage",
+         "alloc": 0.017
+      },
+      {
+         "county": "Waushara",
+         "alloc": 0.983
+      }
+   ],
+   "54985": [
+      {
+         "county": "Winnebago",
+         "alloc": 1
+      }
+   ],
+   "54986": [
+      {
+         "county": "Waushara",
+         "alloc": 0.007
+      },
+      {
+         "county": "Winnebago",
+         "alloc": 0.993
+      }
+   ]
+}

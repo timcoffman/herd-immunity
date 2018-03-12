@@ -143,4 +143,21 @@ Helper.prototype.token = function( authorizationCode, state, token_uri, callback
   ;
 };
 
+
+Helper.prototype.smartStyle = function( url, callback ) {
+  https.get( url, function(httpResponse) {
+
+    var body = '';
+    httpResponse.on( 'data', function(data) { body += data; }) ;
+    httpResponse.on( 'end', function() {
+    var smartStyle = JSON.parse( body ) ;
+    
+    callback( null, smartStyle );
+      
+    });
+    
+  }).on( 'error', callback )
+  ;
+} ;
+
 module.exports = new Helper() ;
